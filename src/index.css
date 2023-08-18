@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    background-color: #EFF2F3;
+    background: #EFF2F3 0% 0% no-repeat padding-box;
+    scrollbar-width: thin; /* "thin" o "none" */
+    scrollbar-color: transparent transparent;
+}
+

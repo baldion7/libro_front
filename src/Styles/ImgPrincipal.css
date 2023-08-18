@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@500&display=swap');
+.imgPrincipal-container-img{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.imgPrincipal-container-img img  {
+    width: 100%;
+    height: 29rem;
+    object-fit: cover;
+}
+
+.imgPrincipal-container-title h1{
+    background: #b7b7b7;
+}
+
+.imgPrincipal-container-title{
+    font-family: 'Archivo', sans-serif;
+    font-size: 2rem;
+    color: black;
+    //color: rgb(245,245,245);
+    position: absolute;
+    top: 16%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
