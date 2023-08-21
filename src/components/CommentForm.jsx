@@ -19,7 +19,7 @@ export const CommentForm = () => {
     e.preventDefault();
     formRef.current.reset();
     try {
-       await fetch('http://localhost:5000/comments', {
+       await fetch('http://191.101.1.160/api/comments', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

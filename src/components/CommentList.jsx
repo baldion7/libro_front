@@ -2,10 +2,10 @@ import { useEffect, useState } from 'react';
 
 export const CommentList = ({pent}) => {
   const [data, setData] = useState(null);
-  /*useEffect(() => {
+  useEffect(() => {
     const fetchComments = async () => {
       try {
-        const response = await fetch('http://localhost:5000/comments');
+        const response = await fetch('http://191.101.1.160/api/comments');
         const data = await response.json();
         setData(data);
       } catch (error) {
@@ -17,7 +17,7 @@ export const CommentList = ({pent}) => {
     return () => clearInterval(intervalId);
   }, []);
 
-*/
+
   return (
     <>
       {data && data.map((comment) => (
