@@ -9,9 +9,9 @@ function classNames(...classes) {
 export const DropdownsActivityCuarto = () => {
   return (
     <>
-      <Menu as="div" className="relative inline-block text-left">
-        <div>
-          <Menu.Button className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 font-Edu">
+      <Menu as="div"  className="relative inline-block text-left">
+        <div >
+          <Menu.Button style={{backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDgxecKfrTTRFizEwsOrsrj51Vpg9lZ8j8hQ&usqp=CAU)`,fontWeight: 'bold', backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat',fontSize: '20px'}} className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 font-Edu">
             CUARTO
             <ChevronDownIcon className="-mr-1 h-5 w-5 text-gray-400" aria-hidden="true" />
           </Menu.Button>
@@ -27,8 +27,9 @@ export const DropdownsActivityCuarto = () => {
           leaveTo="transform opacity-0 scale-98"
         >
           <Menu.Items className="absolute right-2 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
-            <div className="py-1">
-              <Menu.Item>
+            <div className="py-1 overflow-auto h-80" style={{backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgJNV4oDqU9yPAXjA6pKJYr-DXK--XbDUFA&usqp=CAU)`,fontWeight: 'bold', backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat',}}>
+
+            <Menu.Item>
                 {({ active }) => (
                   <Link
                     to="/post/0"
@@ -167,7 +168,7 @@ export const DropdownsActivityCuarto = () => {
                       'block px-4 py-2 text-sm'
                     )}
                   >
-                    Bienvenidos a la página web
+                    segunda parte de "Sorbitos de Memoria"
                   </Link>
                 )}
               </Menu.Item>
@@ -180,7 +181,7 @@ export const DropdownsActivityCuarto = () => {
                       'block px-4 py-2 text-sm'
                     )}
                   >
-                    segunda parte de "Sorbitos de Memoria"
+                    Creación del Fanzine
                   </Link>
                 )}
               </Menu.Item>
@@ -193,7 +194,7 @@ export const DropdownsActivityCuarto = () => {
                       'block px-4 py-2 text-sm'
                     )}
                   >
-                    Creación del Fanzine
+                    Tecnología de Palabras
                   </Link>
                 )}
               </Menu.Item>
@@ -206,7 +207,85 @@ export const DropdownsActivityCuarto = () => {
                       'block px-4 py-2 text-sm'
                     )}
                   >
-                    Tecnología de Palabras
+                    Pequeñas grandes historias
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/post/14"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Ilustrando la portada del libro
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/post/15"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Personajes que cobran vida
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/post/16"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Mi lugar favorito de la escuela
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/post/17"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    El futuro de la literatura
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/post/18"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Para mi bandera vivir
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/post/19"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Las Familias de los Pequeños Autores
                   </Link>
                 )}
               </Menu.Item>

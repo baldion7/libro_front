@@ -35,6 +35,41 @@ export const quiver = [{
     {
       url: 'src/img/IMG_0052.jpg',
     }
-
+    //hola
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.03 PM.jpeg',
+    }
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.04 PM.jpeg',
+    }
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.04 PM (1).jpeg',
+    },
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.04 PM (2).jpeg',
+    }
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.04 PM (3).jpeg',
+    }
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.04 PM (4).jpeg',
+    }
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.04 PM (5).jpeg',
+    }
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.04 PM (6).jpeg',
+    }
+    ,
+    {
+      url: 'src/img/WhatsApp Image 2023-08-28 at 3.18.05 PM.jpeg',
+    }
     ]
 }]

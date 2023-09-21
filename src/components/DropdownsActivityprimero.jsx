@@ -11,7 +11,7 @@ export const DropdownsActivityprimero = () => {
     <>
       <Menu as="div" className="relative inline-block text-left">
         <div>
-          <Menu.Button className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 font-Edu">
+          <Menu.Button style={{backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDgxecKfrTTRFizEwsOrsrj51Vpg9lZ8j8hQ&usqp=CAU)`,fontWeight: 'bold', backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat',fontSize: '20px'}} className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 font-Edu">
             PRIMERO
             <ChevronDownIcon className="-mr-1 h-5 w-5 text-gray-400" aria-hidden="true" />
           </Menu.Button>
@@ -27,9 +27,8 @@ export const DropdownsActivityprimero = () => {
           leaveTo="transform opacity-0 scale-98"
         >
           <Menu.Items className="absolute right-2 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none ">
-            <div className="py-1">
-
-              <Menu.Item>
+            <div className="py-1" style={{backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgJNV4oDqU9yPAXjA6pKJYr-DXK--XbDUFA&usqp=CAU)`,fontWeight: 'bold', backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat',}}>
+            <Menu.Item>
                 {({ active }) => (
                   <Link
                     to="/primero/0"
@@ -123,7 +122,7 @@ export const DropdownsActivityprimero = () => {
               <Menu.Item>
                 {({ active }) => (
                   <Link
-                    to="/post/7"
+                    to="/primero/7"
                     className={classNames(
                       active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
                       'block px-4 py-2 text-sm'
@@ -136,13 +135,39 @@ export const DropdownsActivityprimero = () => {
               <Menu.Item>
                 {({ active }) => (
                   <Link
-                    to="/post/8"
+                    to="/primero/8"
                     className={classNames(
                       active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
                       'block px-4 py-2 text-sm'
                     )}
                   >
                     Uniendo Dos Mundos
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/primero/9"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Mi Juguete Favorito
+                  </Link>
+                )}
+              </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/primero/10"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Creando con Amor
                   </Link>
                 )}
               </Menu.Item>

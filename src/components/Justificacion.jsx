@@ -1,23 +1,70 @@
 import { CarouselJustification } from './CarouselJustification.jsx'
 
-export const Justificacion = ({rute}) => {
+export const Justificacion = ({ rute }) => {
   return (
     <>
-      <section className="bg-white dark:bg-gray-800" >
+      <section className="bg-white dark:bg-gray-800" style={{backgroundImage: `url(https://img.freepik.com/foto-gratis/textura-papel-gris_1253-25.jpg?w=2000)`,backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat',}}>
         <div className="flex max-w-screen-xl px-4 py-8 mx-auto  justify-center items-centers">
           <div className="mr-auto w-full flex items-center flex-col ">
-            <h1 className="p-10 mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
+            <h1
+              className="p-10 mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
               JUSTIFICACION
             </h1>
-            <p className=" pr-14 pl-14 mb-6 font-light  lg:mb-8 md:text-lg lg:text-xl ">
-              El proyecto 0LE (Oralidad, Lectura y Escritura, venga y le cuento) se centra en el interés de las docentes del Colegio Luis Carlos Galán Sarmiento, Sede B El Consuelo, por apoyar los procesos de aprendizaje de los estudiantes de grado cuarto uno que vienen siendo focalizados desde el preescolar. El proyecto busca desarrollar habilidades comunicativas fundamentales para que los estudiantes de primero: (1-1 JT) y cuarto: (4-1 JM) puedan construir su proyecto de vida. Para ello, se aplican herramientas proporcionadas por el Ministerio de Educación Nacional y la Secretaría de Educación Municipal.
-              Desde una perspectiva basada en el desarrollo de Vygotsky, se reconoce que las instituciones educativas tienen la responsabilidad de garantizar el desarrollo cultural de los estudiantes y potenciar sus habilidades de expresión. La lengua oral y escrita juegan un papel fundamental en este proceso, permitiendo a los niños construir su identidad personal y desarrollar habilidades para interactuar en la sociedad.
-              El proyecto se enfoca en la importancia de la lectura y escritura como prácticas socioculturales que permiten acceder al conocimiento y formar criterios propios frente a la información que circula en la sociedad actual. Además, se destaca el valor de la literatura como eje articulador del proceso, y se busca formar lectores y productores de texto.
-              La metodología utilizada en el colegio se basa en el Aprendizaje Basado en Problemas (ABP), que promueve una educación centrada en la experiencia vivencial, la participación y la reflexión constante sobre lo aprendido. También se integran las memorias y experiencias de los abuelos, enriqueciendo el proceso educativo y creando un vínculo intergeneracional significativo.
-              A lo largo de los años, el proyecto ha abordado diversas temáticas como: Afianzamiento de habilidades socioemocionales desde la innovación de estrategias lúdico- afectivas; La familia: un laboratorio de experiencias a un solo clic; Aprendiendo a un solo click ,se han adaptado a las circunstancias extraordinarias, como la pandemia, utilizando plataformas virtuales y herramientas en línea para asegurar la continuidad del proceso de enseñanza-aprendizaje.
-              De esta manera, y retomando las palabras del Santo Papa Francisco en su mensaje en la Primera Jornada Mundial de los Abuelos y de los Mayores (25 de julio de 2021), "Yo estoy contigo todos los días" (cf. Mt 28,20), nació la idea de crear un libro "En algún lugar de la escuela: Relatos de niñas y niños del barrio el Consuelo, Girón", donde los estudiantes se apropian de las historias contadas por sus abuelos y las escriben, rescatando la memoria y experiencias vividas, y fomentando la formación de valores como la diversidad  y el sentido ciudadano en la comunidad educativa Galanista.
-              Los abuelos juegan un papel fundamental en este proceso, transmitiendo sabiduría y amor incondicional, y su presencia en la vida de los estudiantes es valorada y apreciada, especialmente en tiempos difíciles como la pandemia, donde la conexión con los seres queridos cobra un valor especial. Los abuelos son un puente entre el pasado y el presente, y su visita es como la de un ángel que brinda consuelo y compañía.
-            </p>
+            <div className="">
+              <img
+                src={'src/img/ImgJustificacion.jpeg'}
+                className="imagen" alt=""/>
+              <p>
+              <p className=" parrafo  ">
+                El proyecto: <strong>OLE, venga le cuento</strong> (Oralidad, Lectura y Escritura) sin dejar atrás la
+                memoria como recurso de recordar momentos vividos en el trascender de la vida, se centra en el interés
+                de
+                las docentes del Colegio Luis Carlos Galán Sarmiento, Sede B El Consuelo, en apoyar los procesos de
+                aprendizaje de los estudiantes de grado cuarto quienes vienen siendo el grupo focalizado de estudio
+                desde
+                el preescolar. El proyecto "OLE mano, venga le cuento", busca desarrollar habilidades comunicativas
+                fundamentales desde el grado primero (1-1 JT) por motivación de la docente titular de aplicar las
+                herramientas, instrumentos, estrategias pedagógicas  y afianzarlas de manera en grado cuarto: (4-1 JM) y así,
+                puedan tener una perspectiva de su su proyecto de vida. Para ello, para ello se seleccionan herramientas
+                proporcionadas por el Ministerio de Educación Nacional y la Secretaría de Educación Municipal.
+
+                </p>
+
+                  El proyecto educativo "OLE, venga le cuento" retoma el trabajo de años anteriores y crea instrumentos
+                  que nos acerca a la comprensión del contexto y a la realidad que ha los niños les ha correspondido
+                  vivir y sobre la cual los docentes ejercemos una transformación que nos conduce a la creación
+                  colaborativa de un libro con sus propios relatos e historias personales, que busca estimular su
+                  creatividad literaria y el desarrollo de competencias comunicativas.
+                  <br/>
+                  El proyecto educativo "OLE, venga le cuento" retoma el trabajo de años anteriores y crea instrumentos
+                  que nos acerca a la comprensión del contexto y a la realidad que ha los niños les ha correspondido
+                  vivir y sobre la cual los docentes ejercemos una transformación que nos conduce a la creación
+                  colaborativa de un libro con sus propios relatos e historias personales, que busca estimular su
+                  creatividad literaria y el desarrollo de competencias comunicativas.
+                  Las diversas actividades interactivas planteadas, como jornadas de lectura, sesiones de escritura
+                  creativa y diálogos intergeneracionales, son esenciales para recopilar anécdotas familiares y del
+                  entorno que enriquezcan el libro. La aplicación de realidad aumentada Quiver refuerza este proceso al
+                  facilitar la interacción con representaciones 3D.
+
+                  <br/>
+                  La metodología utilizada en el colegio se basa en el Aprendizaje Basado en Problemas (ABP), que
+                  promueve una educación centrada en la experiencia vivencial, la participación y la reflexión constante
+                  sobre lo aprendido. También se integran las memorias y experiencias de los abuelos, enriqueciendo el
+                  proceso educativo y creando un vínculo intergeneracional significativo.
+                  <br/>
+                  De esta forma, se justifica el proyecto por sus efectos positivos: mejoras observadas en habilidades
+                  literarias y comunicativas de los estudiantes, fortalecimiento del vínculo con su comunidad y la
+                  exitosa
+                  creación del primer libro elaborado en la escuela como invaluable aporte cultural y literario.
+                  <br/>
+                  La creación del libro con los relatos propios de los estudiantes buscan promover estrategias de
+                  promoción de lectura, escritura, oralidad y memoria, como iniciativas simbólicas de creación literaria
+                  que contribuyan en la formación integral de los estudiantes y en el fortalecimiento del tejido
+                  comunitario a través de los años escolares retomando aquello que nos queda en la memoria, para
+                  plasmarlo en relatos.
+                </p>
+
+            </div>
           </div>
         </div>
         <div className=" lg:col-span-5 lg:flex">
@@ -25,5 +72,5 @@ export const Justificacion = ({rute}) => {
         </div>
       </section>
     </>
-  );
-};
+)
+}

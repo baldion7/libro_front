@@ -19,7 +19,7 @@ export const CommentForm = () => {
     e.preventDefault();
     formRef.current.reset();
     try {
-       await fetch('http://191.101.1.160/api/comments', {
+       await fetch('http://olevengalecuento.online/api/comments', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

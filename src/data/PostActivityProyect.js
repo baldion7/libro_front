@@ -27,8 +27,7 @@ export const PostActivityProyect = [
       'Además, los abuelos también compartieron cómo la tecnología ha influido en sus vidas y en la sociedad en general. Comentaron sobre los cambios que han experimentado con la llegada de la tecnología, cómo ha mejorado la comunicación y cómo ha impactado diferentes aspectos de sus rutinas diarias.\n' +
       '\n' +
       'Esta actividad permitió a los estudiantes conectarse de manera profunda con sus raíces, descubrir nuevas perspectivas y apreciar el valor de la tradición y el progreso. Los abuelos, a su vez, se sintieron valorados y escuchados, experimentando la satisfacción de compartir su sabiduría con las generaciones más jóvenes.\n' +
-      '\n' +
-      'En resumen, «Sorbitos de Memoria» en la emisora comunitaria San Juan de Girón 88.2 FM brindó un espacio enriquecedor en el que los estudiantes entrevistadores se sumergieron en las historias de sus abuelos, explorando las costumbres, fiestas, juguetes y el impacto de la tecnología en sus vidas. Esta actividad fomentó la conexión intergeneracional y promovió la preservación de la memoria colectiva, enriqueciendo la comprensión de la historia y la cultura de la comunidad.',
+      '\n',
     slider: [{
       url: 'src/img/IMG_20230613_162556-1024x461.jpg',
     },
@@ -42,7 +41,7 @@ export const PostActivityProyect = [
         url: 'src/img/WhatsApp Image 2023-07-25 at 7.11.52 PM.jpeg',
       }
     ],
-    youtube: '4sZ6uOFaVc8'
+    youtube: [{ src: '4sZ6uOFaVc8' }]
 
   },
   {
@@ -63,15 +62,10 @@ export const PostActivityProyect = [
       }
     ],
     title: 'Queridos Abuelos: Una Carta Cautivadora de Amor, Agradecimiento y Sabiduría',
-    text: 'En este inspirador ejercicio de escritura, los estudiantes tuvieron la oportunidad de expresar su amor, gratitud y aprecio hacia sus abuelos a través de una carta. Fue un momento especial para reflexionar sobre la importancia de la figura de los abuelos en sus vidas y compartir con ellos pensamientos y sentimientos sinceros.\n' +
-      '\n' +
-      'Durante este ejercicio, los estudiantes se sumergieron en sus recuerdos, reviviendo momentos especiales junto a sus abuelos y reconociendo el impacto positivo que han tenido en su desarrollo personal. Fue una ocasión para apreciar la sabiduría acumulada a lo largo de los años y para expresar cómo los abuelos han dejado huellas imborrables en sus corazones.\n' +
-      '\n' +
-      'A través de sus palabras, los estudiantes transmitieron gratitud por los valores transmitidos por sus abuelos, por el amor incondicional recibido y por el tiempo y la atención dedicados a ellos en estas actividades realizadas en este propuesta educativa como lo es pisquitas de memorias. Además, aprovecharon la oportunidad para expresar la importancia de la conexión intergeneracional y cómo los abuelos han dejado una profunda impresión en su identidad y forma de ver el mundo.\n' +
-      '\n' +
-      'En estas cartas, los estudiantes compartieron momentos especiales, anécdotas y lecciones aprendidas de sus abuelos. Expresaron cómo los abuelos han sido un apoyo constante, un ejemplo a seguir y una fuente de sabiduría invaluable. A través de sus palabras, los estudiantes demostraron la importancia de mantener el vínculo con los abuelos y de valorar su presencia en sus vidas.\n' +
-      '\n' +
-      'En resumen, este ejercicio de escritura fue una hermosa oportunidad para que los estudiantes expresaran sus sentimientos hacia sus abuelos. A través de sus cartas, compartieron amor, gratitud y aprecio, reconociendo la influencia positiva de sus abuelos en sus vidas. Este ejercicio resaltó la importancia de mantener vivos los lazos familiares y el valor de aprender de las generaciones anteriores.',
+    text: 'En este inspirador ejercicio de escritura, los estudiantes tuvieron la oportunidad de expresar su amor, gratitud y aprecio hacia sus abuelos a través de una carta. Fue un momento especial para reflexionar sobre la importancia de la figura de los abuelos en sus vidas y compartir con ellos pensamientos y sentimientos sinceros.\n\n' +
+      'Durante este ejercicio, los estudiantes se sumergieron en sus recuerdos, reviviendo momentos especiales junto a sus abuelos y reconociendo el impacto positivo que han tenido en su desarrollo personal. Fue una ocasión para apreciar la sabiduría acumulada a lo largo de los años y para expresar cómo los abuelos han dejado huellas imborrables en sus corazones.\n\n' +
+      'A través de sus palabras, los estudiantes transmitieron gratitud por los valores transmitidos por sus abuelos, por el amor incondicional recibido y por el tiempo y la atención dedicados a ellos en estas actividades realizadas en este propuesta educativa como lo es pisquitas de memorias. Además, aprovecharon la oportunidad para expresar la importancia de la conexión intergeneracional y cómo los abuelos han dejado una profunda impresión en su identidad y forma de ver el mundo.\n\n' +
+      'En estas cartas, los estudiantes compartieron momentos especiales, anécdotas y lecciones aprendidas de sus abuelos. Expresaron cómo los abuelos han sido un apoyo constante, un ejemplo a seguir y una fuente de sabiduría invaluable. A través de sus palabras, los estudiantes demostraron la importancia de mantener el vínculo con los abuelos y de valorar su presencia en sus vidas.\n\n',
     slider: [{
       url: 'src/img/IMG_20230702_180838-779x1024.jpg',
     },
@@ -107,8 +101,7 @@ export const PostActivityProyect = [
       'A través de sus respuestas, los niños demostraron que una niña o un niño sirve para mucho más que simplemente crecer y ocupar un lugar en la sociedad. Describieron su capacidad para iluminar el mundo con su inocencia y alegría, su habilidad para amar incondicionalmente, su papel como futuros constructores de un mundo mejor, su deseo de aprender y explorar, su capacidad para unir a las familias y fortalecer los lazos afectivos, su contribución a la diversidad y la individualidad, su inspiración para la creatividad y los sueños, su recordatorio de cuidar y proteger el entorno, su resiliencia para superar obstáculos y, en última instancia, su capacidad para hacernos mejores personas.\n' +
       '\n' +
       'Estas respuestas, enriquecidas por la autenticidad y la sabiduría de los niños, nos invitan a reflexionar sobre nuestro propio papel en la vida y cómo podemos nutrir y apoyar el crecimiento de las nuevas generaciones. Nos recuerdan que los niños son seres extraordinarios, capaces de ver la realidad de una manera única y brindarnos una perspectiva fresca y valiosa.\n' +
-      '\n' +
-      'En resumen, esta actividad permite sumergirnos en la visión de los niños sobre el propósito de una niña o un niño en el mundo. Sus respuestas, expresadas a través de su sentido y su capacidad de análisis, nos recordaron la importancia de escuchar y valorar las voces de los más jóvenes, reconociendo su sabiduría innata y su capacidad para ver la realidad con una claridad sorprendente.',
+      '\n',
     slider: [{
       url: 'src/img/IMG_20230702_093249-461x1024.jpg',
     },
@@ -126,19 +119,8 @@ export const PostActivityProyect = [
     id: 4,
     imagen: [{
       id: 1,
-      img: 'src/img/IMG_20230702_093822-900x1024.jpg',
-    },
-      {
-        id: 2,
-        img: 'src/img/IMG_20230702_093338-495x1024.jpg',
-
-      },
-      {
-        id: 3,
-        img: 'src/img/IMG_20230702_093312-460x1024.jpg',
-
-      }
-    ],
+      img: 'src/img/WhatsApp Image 2023-08-27 at 7.05.25 PM.jpeg',
+    }],
     title: 'Inmersión cultural: Visita de estudiantes de la comunidad indígena Inga del Putumayo a la sede educativa',
     text: 'En esta emocionante actividad, los estudiantes tuvieron la maravillosa oportunidad de recibir la visita de jóvenes estudiantes de la UIS de la comunidad indígena Inga en la sede educativa. Durante esta visita, los integrantes de la comunidad nos recordaron nuestras raíces y nos sumergieron en su rica cultura ancestral. Ubicada en el hermoso departamento del Putumayo, la comunidad Inga nos brindó una visión completa de su economía, vivienda, educación, costumbres y tradiciones.\n' +
       '\n' +
@@ -149,10 +131,6 @@ export const PostActivityProyect = [
       'Durante la visita, se presenció la explicación de sus ceremonias y festividades religiosas, en las cuales los miembros de la comunidad demuestran una profunda conexión con la naturaleza. Nos enseñaron canciones y danzas tradicionales, acompañadas de instrumentos autóctonos. Fue realmente inspirador ver en un documental en «Los informantes» cómo los niños Inga reciben entrenamiento en la Guardia Indígena desde temprana edad, aprendiendo la importancia de proteger su tierra y sus tradiciones.\n' +
       '\n' +
       'Además, nos introdujeron al mundo de los animales en su lengua nativa. Aprendimos palabras como «alku» para perro, «misitu» para gato y «atawalpa» para gallina. También disfrutamos de canciones infantiles, como la famosa «Vaca Lola», que nos permitieron compartir risas y momentos divertidos con estos jóvenes estudiantes de la comunidad Inga.\n' +
-      '\n' +
-      'En resumen, esta visita de los jóvenes estudiantes indígenas Inga del Putumayo fue una experiencia enriquecedora y reveladora. A través de sus relatos, su música, su vestimenta y su profundo respeto por la naturaleza, nos transmitieron una invaluable lección sobre la importancia de preservar nuestras raíces y valorar la diversidad cultural.\n' +
-      '\n' +
-      'Debemos mirar con reverencia el pasado de nuestros ancestros y nutrir un profundo respeto por nuestros aborígenes, ya que ellos son la cuna de la civilización de nuestro hermoso país.\n' +
       '\n',
     slider: [{
       url: 'src/img/IMG_20230607_092929-1024x461.jpg',
@@ -165,7 +143,7 @@ export const PostActivityProyect = [
       }
 
     ],
-    youtube: 'f1ec6tgzBR0',
+    youtube: [{ src: 'f1ec6tgzBR0' }, { src: 'WtxSSWy0Bk8' }],
     videos: [
       {
         video: 'src/video/VID-20230620-WA0031.mp4'
@@ -179,19 +157,14 @@ export const PostActivityProyect = [
     id: 5,
     imagen: [{
       id: 1,
-      img: 'src/img/IMG_20230621_100821-edited-461x1024.jpg',
+      img: 'src/img/WhatsApp Image 2023-09-17 at 7.07.57 PM (1).jpeg'
     },
       {
         id: 2,
-        img: 'src/img/IMG_20230702_012648-516x1024.jpg',
-
-      },
-      {
-        id: 3,
-        img: 'src/img/IMG_20230621_101100-461x1024.jpg',
-
+        img: 'src/img/WhatsApp Image 2023-09-17 at 7.07.57 PM.jpeg',
       }
     ],
+    youtube: [{ src: 'kDzVK8vyOsQ' }],
     title: '¡Peludos, Patosos y Con Cola! La Divertida Historia de Mi Mascota',
     text: 'La Historia de Mi Mascota» en formato de minilibro! En estas encantadoras páginas, los estudiantes presentan una aventura llena de risas, travesuras y momentos inolvidables junto a su querida mascota.\n' +
       '\n' +
@@ -210,6 +183,18 @@ export const PostActivityProyect = [
   },
   {
     id: 6,
+    imagen: [ {
+      id: 23,
+      img: 'src/img/WhatsApp Image 2023-09-17 at 9.14.03 PM.jpeg',
+    },
+      {
+        id: 24,
+        img: 'src/img/WhatsApp Image 2023-09-17 at 9.14.03 PM (1).jpeg',
+      },{
+        id: 25,
+        img: 'src/img/WhatsApp Image 2023-09-17 at 9.14.03 PM (2).jpeg',
+      },
+    ],
     title: '¡Queridos Taitas, No Se Asusten! Una Carta Llena de Travesuras y Confesiones',
     text: 'Damos inicio a un viaje lleno de amor y confidencias en nuestras cartas a los Taitas o los Papás! En esta hermosa actividad, los estudiantes tienen la oportunidad de escribir cartas muy especiales, en las cuales comparten algo que solo ellos saben, descubren emociones fuertes, alegrías y tristezas, y expresan sus más profundos sentimientos a sus queridos Taitas o Papás.\n' +
       '\n' +
@@ -277,7 +262,33 @@ export const PostActivityProyect = [
   },
   {
     id: 8,
+    imagen: [{
+      id: 1,
+      img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.17 PM.jpeg',
+    },
+      {
+        id: 2,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.17 PM (1).jpeg',
 
+      },
+      {
+        id: 3,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.18 PM.jpeg',
+
+      }
+      ,
+      {
+        id: 4,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.18 PM (1).jpeg',
+
+      }
+      ,
+      {
+        id: 5,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.18 PM (2).jpeg',
+
+      }
+    ],
     title: '«El Insuperable y Divertido Juguetón: Mi Compañero de Aventuras» Mi juguete favorito.',
     text: 'En esta emocionante ejercicio, los estudiantes han traído a clase a su juguete favorito para compartirlo con sus compañeros. ¡Es una oportunidad única para conocer la magia y la historia que hay detrás de cada juguete especial!\n' +
       '\n' +
@@ -308,7 +319,7 @@ export const PostActivityProyect = [
     title: '¡Explorando Mi Barrio: Un Mapa Lleno de Sorpresas y Vecinos Curiosos!». Cartografía de mi barrio del municipio de Girón.',
     text: 'La emocionante «Cartografía de mi Barrio» en el municipio de Girón! En esta actividad, los niños han creado coloridos carteles que son mucho más que simples mapas. Estas obras de arte son ventanas a sus mundos, donde nos muestran las historias de su barrio y nos destacan a los fascinantes iconos y vecinos que hacen de este lugar un rincón especial.\n' +
       '\n' +
-      'El municipio de Girón ubicado en el país\n' +
+      'El municipio de Girón ubicado en el departamento de Santander.\n' +
       'Cada cartel es una representación y única y vibrante de la vida en el barrio, capturando los lugares favoritos de los niños, los rincones misteriosos y las aventuras diarias que los hacen sentir como en casa. A través de dibujos llenos de imaginación y palabras llenas de emoción, los niños nos guiarán por calles y plazas, compartiendo anécdotas y secretos que solo ellos conocen.\n' +
       '\n' +
       'Desde la tiendita de la esquina, donde compran golosinas, hasta la casa de «¡La Vecina Curiosa: Oídos afilados y lenguaje veloz!» o la casa del abuelo que siempre cuenta las mejores historias, cada icono y representa vecino un pedacito del corazón de estos barrios del sur de Girón.\n' +
@@ -368,25 +379,6 @@ export const PostActivityProyect = [
     ],
   },
   {
-    id: 11,
-
-    title: '¡Bienvenidos a la página web «Pisquitas de Memoria: Conectando Generaciones»! En esta plataforma, te sumergirás en un emocionante viaje que combina la sabiduría de nuestros abuelos con la curiosidad e imaginación de los estudiantes de los grados: 4-1JM; 1-1JT de primaria Sede B El Consuelo ',
-    text: '¿Qué son las Pisquitas de Memoria?\n' +
-      '\n' +
-      'Las «Pisquitas de Memoria» son pequeños destellos de recuerdos que surgen de manera espontánea en la mente de los abuelos. Son fragmentos fugaces de experiencias pasadas, imágenes, olores, sonidos, juguetes, mascotas y sensaciones táctiles que, aunque pueden ser breves, tienen un gran significado emocional y pueden evocar recuerdos significativos de nuestro pasado en estos estudiantes.\n' +
-      '\n' +
-      'El objetivo de este proyecto es crear un espacio de conexión y aprendizaje entre los abuelos y los estudiantes de 4-1 JM Y 1-1 JT de primaria, centrándonos en la transmisión intergeneracional y el poder de la memoria. Reconocemos que los abuelos son portadores de una vasta experiencia y conocimiento, mientras que los estudiantes están en una etapa de descubrimiento y ansias de aprender.\n' +
-      '\n' +
-      'Además de las actividades centradas en las «Pisquitas de Memoria», también comprendemos la importancia de fortalecer las habilidades de lectura y escritura de los estudiantes. En ese sentido, nuestro proyecto busca ofrecer un enfoque enriquecedor que combine la transmisión de conocimientos y experiencias de los abuelos con la mejora de las habilidades de Lectura, Escritura, Oralidad y Memorias (LEOM) en los estudiantes.\n' +
-      '\n' +
-      'Una forma de lograr esto es mediante la creación de un proyecto de escritura colaborativa en el que los estudiantes pueden trabajar junto a sus abuelos para escribir un libro. Este proceso no solo les permitirá desarrollar sus habilidades de escritura, sino también fomentará el vínculo intergeneracional y brindará a los abuelos la oportunidad de compartir sus historias y conocimientos de manera significativa.\n' +
-      '\n' +
-      'A través de la lectura, escritura, oralidad y memorias conjunta, los estudiantes podrán sumergirse en las experiencias de vida de sus abuelos, conocer distintos contextos históricos y culturales, y expandir su comprensión del mundo que los rodea. Estas actividades no solo tienen el potencial de mejorar las habilidades de lectura y escritura de los estudiantes, sino que también pueden aumentar su motivación y compromiso, lo que puede tener un impacto positivo en su desempeño académico, incluidas las pruebas de estado.\n' +
-      '\n' +
-      'En resumen, nuestro proyecto busca unir a los abuelos y estudiantes de cuarto y primer grado de primaria a través de la transmisión intergeneracional y el poder de la memoria. Al combinar actividades centradas en las «Pisquitas de Memoria» con proyectos de lectura , escritura, Oralidad colaborativa, esperamos fortalecer las habilidades de lectura y escritura de los estudiantes y brindarles una experiencia enriquecedora que impacte positivamente su aprendizaje y rendimiento académico.',
-
-  },
-  {
     id: 12,
     imagen: [{
       id: 1,
@@ -408,10 +400,10 @@ export const PostActivityProyect = [
 
       }
     ],
-    title: '¡Bienvenidos de nuevo la segunda parte de "Sorbitos de Memoria" en la emisora comunitaria San Juan de Girón bajo la dirección de la historiadora Patricia Sandoval!',
+    title: '¡Bienvenidos de nuevo a la segunda parte de "Sorbitos de Memoria" en la emisora comunitaria San Juan de Girón bajo la dirección de la historiadora Patricia Sandoval!',
     text: 'Hoy nuevamente nos sumergiremos en los valiosos recuerdos de los abuelos de los estudiantes del grado 4-1, donde los niños encuentran en sus abuelos un tesoro invaluable: la oportunidad de conocer su historia a través de relatos que viajan desde el pasado hasta el presente.\n' +
       'Así que, con una taza de nostalgia y otra de aprendizaje, nos disponemos a disfrutar de esta enriquecedora experiencia junto a los abuelos del grado 4-1. Acompáñenos en "Sorbitos de Memoria", donde el ayer cobra vida en el presente. ¡Comencemos!\n',
-    youtube: 'OQK7zMZTXY0'
+    youtube: [{ src: 'OQK7zMZTXY0' }],
   },
   {
     id: 13,
@@ -451,7 +443,7 @@ export const PostActivityProyect = [
         id: 8,
         img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.04 AM (1).jpeg',
 
-      },{
+      }, {
         id: 9,
         img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.52 AM.jpeg',
 
@@ -508,7 +500,7 @@ export const PostActivityProyect = [
         id: 4,
         img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.52 PM.jpeg',
 
-      },{
+      }, {
         id: 5,
         img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.53 PM (1).jpeg',
       },
@@ -536,5 +528,374 @@ export const PostActivityProyect = [
     title: 'Tecnología de Palabras: Un Viaje Digital hacia la Creatividad Literaria OLE',
     text: 'Un viaje hacia la Oralidad, lectura y escritura. Luego de plasmar sus mejores historias en papel, los estudiantes aprovechan las posibilidades tecnológicas para elevar sus historias a un nivel superior.\n' +
       'Enciendan lo portátiles, abran Word y déjense llevar por la imaginación. brindándoles la oportunidad de explorar la escritura desde una perspectiva más dinámica y versátil. utilizando herramientas de edición, corrección y diseño para darle forma a sus escritos.',
+  },
+  {
+    id: 15,
+    imagen: [{
+      id: 1,
+      img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.04 PM.jpeg',
+    },
+      {
+        id: 2,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.31 PM (1).jpeg',
+
+      },
+      {
+        id: 3,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.31 PM.jpeg',
+
+      },
+      {
+        id: 4,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.32 PM.jpeg',
+
+      }, {
+        id: 5,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 4.44.56 PM.jpeg',
+      },
+    ],
+    title: 'Pequeñas grandes historias: Relatos de estudiantes que conmueven el alma',
+    text: 'Este fanzine recopila los relatos creados por los niños y niñas de la escuela, permitiéndonos asomarnos a su mundo interior a través de conmovedoras historias sobre sus juguetes, mascotas y reflexiones que revelan su universo creativo. \n' + ' Los textos surgieron de ejercicios en clase donde los estudiantes pudieron expresarse con total libertad e imaginación encontrar en la escritura una forma de conectar sus vivencias más íntimas. \n' + 'Esperamos que al leer estas páginas puedan sentir el latido de estos jóvenes corazones, llenos de ilusión, esperanza y autenticidad. Que encuentren en sus palabras e historias un recordatorio de la magia inherente a la infancia y un llamado a proteger ese espíritu creativo, sensible y lleno de vida. ',
+  },
+  {
+    id: 16,
+    imagen: [
+      {
+        id: 1,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.55 PM.jpeg',
+      },
+      {
+        id: 2,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM.jpeg',
+
+      },
+      {
+        id: 3,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM (1).jpeg',
+
+      },
+      {
+        id: 4,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM (2).jpeg',
+
+      },
+      {
+        id: 5,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM (3).jpeg',
+      },
+      {
+        id: 6,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM.jpeg',
+      },
+      {
+        id: 7,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (1).jpeg',
+
+      },
+      {
+        id: 8,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (2).jpeg',
+
+      },
+      {
+        id: 9,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (3).jpeg',
+
+      },
+      {
+        id: 5,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
+      },
+    ],
+    title: 'Ilustrando la portada del libro: "En algún lugar de la escuela: Relatos de niños y niñas del barrio El Consuelo"',
+    text: 'Para acompañar estas entrañables narraciones, se ha pensado en elaborar dibujos que ilustren las portadas del libro. \n' + ' La idea es plasmar escenas y personajes representativos de las historias, de manera que se complementen con los textos y ayuden al lector a adentrarse en este mágico universo infantil. \n' + 'De esta forma, las ilustraciones para las portadas de "En algún lugar de la escuela" se convertirán en una puerta de entrada a las páginas del libro y una invitación visual para acompañar a los pequeños autores de estas historias en su trayecto desde el aula hasta sus casas en el pintoresco barrio El Consuelo.',
+  },
+  {
+    id: 17,
+    imagen: [
+      {
+        id: 1,
+        img: 'src/img/CamScanner 27-07-2023 14.32_2.jpg',
+      }, {
+        id: 2,
+        img: 'src/img/CamScanner 27-07-2023 14.32_3.jpg',
+      }, {
+        id: 3,
+        img: 'src/img/CamScanner 27-07-2023 14.32_7.jpg',
+      }, {
+        id: 4,
+        img: 'src/img/CamScanner 27-07-2023 14.32_9.jpg',
+      }, {
+        id: 5,
+        img: 'src/img/CamScanner 27-07-2023 14.32_11.jpg',
+      }, {
+        id: 6,
+        img: 'src/img/CamScanner 27-07-2023 14.32_17.jpg',
+      }, {
+        id: 7,
+        img: 'src/img/CamScanner 27-07-2023 14.32_21.jpg',
+      }, {
+        id: 8,
+        img: 'src/img/CamScanner 27-07-2023 14.32_38.jpg',
+      }, {
+        id: 9,
+        img: 'src/img/CamScanner 27-07-2023 14.32_44.jpg',
+      }, {
+        id: 10,
+        img: 'src/img/CamScanner 27-07-2023 14.32_48.jpg',
+      },
+    ],
+    title: 'Personajes que cobran vida: Dibujando a los protagonistas imaginados',
+    text: 'Tras escribir sus relatos, los niños deben dar vida dibujando a los personajes centrales que imaginaron, cerrando los ojos para visualizar sus características y personalidades.\n' + ' Se les invita a ser creativos usando lápices, pinceles y texturas para plasmar con cariño a estos protagonistas.\n' + ' Los dibujos complementarán los cuentos y les darán aún más vida.',
+  },
+  {
+    id: 18,
+    imagen: [
+      {
+        id: 1,
+        img: 'src/img/CamScanner 17-08-2023 13.25_57.jpg',
+      },
+      {
+        id: 2,
+        img: 'src/img/CamScanner 17-08-2023 13.25_45.jpg',
+
+      },
+
+      {
+        id: 4,
+        img: 'src/img/CamScanner 17-08-2023 13.25_21.jpg',
+
+      },
+      {
+        id: 5,
+        img: 'src/img/CamScanner 17-08-2023 13.25_30.jpg',
+      },
+      {
+        id: 6,
+        img: 'src/img/CamScanner 17-08-2023 13.25_35.jpg',
+      },
+      {
+        id: 7,
+        img: 'src/img/CamScanner 17-08-2023 13.25_6.jpg',
+
+      },
+      {
+        id: 8,
+        img: 'src/img/CamScanner 17-08-2023 13.25_12.jpg',
+
+      },
+      {
+        id: 9,
+        img: 'src/img/CamScanner 17-08-2023 13.25_19.jpg',
+
+      },
+      {
+        id: 10,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
+      },
+    ],
+    title: 'Mi lugar favorito de la escuela',
+    text: 'A través de trazos y colores, plasmaron en papel el rincón preferido de la escuela, ese espacio especial donde se sientan feliz y que guardan momentos inolvidables.\n' + ' Con ilusión y creatividad, el lápiz narra visualmente por qué este lugar se ha ganado un sitio en sus corazones.',
+  },
+  {
+    id: 19,
+    imagen: [
+      {
+        id: 1,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.47 PM.jpeg',
+      },
+      {
+        id: 2,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM.jpeg',
+
+      },
+      {
+        id: 3,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (1).jpeg',
+
+      },
+      {
+        id: 4,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (2).jpeg',
+
+      },
+      {
+        id: 5,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (3).jpeg',
+      },
+      {
+        id: 6,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (4).jpeg',
+      },
+      {
+        id: 7,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.49 PM.jpeg',
+
+      },
+      {
+        id: 8,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.49 PM (1).jpeg',
+
+      },
+      {
+        id: 9,
+        img: 'src/img/CamScanner 17-08-2023 13.25_19.jpg',
+
+      },
+      {
+        id: 10,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
+      },
+    ],
+    title: 'El futuro de la literatura: Presentación de los pequeños autores',
+    text: 'Presentación de los talentosos escritores de la escuela, verdaderos protagonistas del libro que reúne sus conmovedores relatos sobre sus vidas, con la autenticidad e ingenuidad de sus cortos años.\n' + ' Con sinceridad e inspiración han plasmado sus memorias, siendo un orgullo por su creatividad. Estos valientes narradores abren una ventana a sus mentes y corazones extraordinarios, siendo el futuro de la literatura.',
+    videos: [
+      {
+        video: 'src/video/WhatsApp Video 2023-08-28 at 5.57.49 PM.mp4'
+      }
+    ]
+  },
+  {
+    id: 20,
+    imagen: [
+      {
+        id: 1,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.11.28 PM.jpeg',
+      },
+      {
+        id: 2,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.11.27 PM (1).jpeg',
+
+      },
+      {
+        id: 3,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.10.21 PM (1).jpeg',
+
+      },
+      {
+        id: 4,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.10.21 PM.jpeg',
+
+      },
+      {
+        id: 5,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM (3).jpeg',
+      },
+      {
+        id: 6,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM (2).jpeg',
+      },
+      {
+        id: 7,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM (1).jpeg',
+
+      },
+      {
+        id: 8,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM.jpeg',
+
+      },
+      {
+        id: 9,
+        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.44 PM.jpeg',
+
+      },
+
+    ],
+    title: 'Para mi bandera vivir: Izada en honor a la Batalla de Boyacá',
+    text: 'Con gran honor y entusiasmo, este grupo de estudiantes tienen a su cargo la izada del pabellón nacional en conmemoracion a la "Batalla de Boyacá".\n' + ' Bajo la dirección de su directora de grupo, la profesora Mary, acompañado de sus mamás que se hacen participes een este homenaje.',
+    videos: [
+      {
+        video: 'src/video/VID-20230828-WA0079.mp4'
+      }, {
+        video: 'src/video/VID-20230828-WA0082.mp4'
+      }, {
+        video: 'src/video/WhatsApp Video 2023-08-28 at 6.09.53 PM.mp4'
+      }
+    ],
+    youtube: [{ src: 'F31l1aeNyko' }],
+  },
+  {
+    id: 21,
+    imagen: [
+      {
+        id: 1,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.02.02 PM.jpeg',
+      },
+      {
+        id: 18,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.59 PM (1).jpeg',
+      },
+      {
+        id: 2,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.03.58 PM.jpeg',
+      },
+      {
+        id: 3,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.05.14 PM.jpeg',
+      },
+      {
+        id: 4,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.10.47 PM (1).jpeg',
+      },
+      {
+        id: 5,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.10.47 PM.jpeg',
+      },
+      {
+        id: 6,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.06 PM.jpeg',
+      },
+      {
+        id: 7,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.31 PM.jpeg',
+      },
+      {
+        id: 9,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.53 PM (2).jpeg',
+      },
+
+      {
+        id: 11,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.54 PM (1).jpeg',
+      },
+      {
+        id: 12,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.54 PM (2).jpeg',
+      },
+      {
+        id: 13,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.54 PM.jpeg',
+      },
+
+      {
+        id: 15,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.55 PM.jpeg',
+      },
+      {
+        id: 16,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.56 PM (1).jpeg',
+      },
+      {
+        id: 19,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.57 PM (1).jpeg',
+      },
+      {
+        id: 20,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.56 PM.jpeg',
+      },
+      {
+        id: 21,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.57 PM (2).jpeg',
+      },
+      {
+        id: 22,
+        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.57 PM (3).jpeg',
+      },
+
+
+    ],
+    title: 'Las Familias de los Pequeños Autores',
+    text: 'En nuestros proyectos, ustedes familias han sido los cimientos fuertes que hacen que todo funcione bien.\n' + ' Su compromiso y apoyo han sido muy importantes para que todo salga bien en estos procesos. \n' + 'Les agradecemos mucho por estar siempre animándolos, siendo pacientes y participando activamente.\n' + ' Su unión y ejemplo han ayudado  a lograr  la creación del libro "En algún lugar de la escuela: Relatos de niños y niñas del barrio El Consuelo";  su ayuda, y  su presencia sigue siendo muy importante para lograr los objetivos.',
   },
 ]

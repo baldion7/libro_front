@@ -1,6 +1,6 @@
 import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
 import { SliderQuiver } from './SliderQuiver.jsx'
-import {quiver} from '../data/Quiver.js'
+import {quiver} from '../data/quiver.js'
 export  const Quiver =()=> {
 	return (
 		<div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">

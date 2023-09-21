@@ -4,8 +4,8 @@ const posts = [
     title: 'Erika Duarte Porras',
     href: '#',
     description:
-      'Docente de aula del grado 1-1 J.T\n' +
-      'Licenciada en Educación Básica con énfasis en Lengua Castellana; con Especialización en Administración de la Informática Educativa, Para profundizar en este campo, decidí cursar una Maestría en Gestión de la Tecnología Educativa, donde adquirí herramientas y perspectivas para aprovechar al máximo las posibilidades que la tecnología ofrece en el ámbito educativo.',
+      'Docente de aula de aula del grado 1-1 J.T. licenciada en Educación Básica con énfasis en lengua castellana, con especialización y Maestría en Gestión de la Tecnología Educativa.\n' +
+      'Estos estudios me han aportado a mi vida profesional y me han dado herramientas para fortalecer y aportar a mis niños, niñas nuevas estrategias que ayuden a ampliar y afianzar sus conocimientos. Todo con el propósito de que en un futuro sean para personitas que aporten ideas y pensamientos de éxitos.',
     date: 'Jul 23, 2023',
     datetime: '2023-07-23',
     category: { title: 'Docentes', href: '#' },
@@ -22,9 +22,7 @@ const posts = [
     title: 'Mary Claret Forero Jiménez',
     href: '#',
     description:
-      'Docente de aula y directora de grupo grado 4-1 J.M. Mi experiencia abarca la rotación de las áreas de lenguaje y religión en los grados tercero y cuarto de primaria. Poseo una licenciatura en Educación Especial y especializaciones en informática y multimedia en educación, y en pedagogía para la docencia universitaria.\n' +
-      '\n' +
-      'Mi trayectoria como directora de grupo ha estado enfocada en proporcionar experiencias significativas que han transformado el desarrollo y aprendizaje de los niños desde el año 2020 hasta 2023. Mi enfoque innovador en los procesos educativos ha creado ambientes estimulantes para los estudiantes, fomentando su crecimiento personal y académico.',
+      'Licenciada en Educación Especial, con especializaciones en el área de la pedagógica. Docente de aula desde hace 35 años, actualmente directora de grupo grado 4-1 J.M, con quienes se viene trabajando desde el año 2020 proyectos de aula cuya finalidad es mejorar procesos personales y sociales de los estudiantes que conlleven a la motivación permanente de mejorar habilidades en la lectura y escritura. Participante en el proceso de validación nacional de los Créditos de Estándares Básicos de Competencias en Lenguaje.',
     date: 'Jul 23, 2023',
     datetime: '2023-07-23',
     category: { title: 'Docentes', href: '#' },
@@ -56,12 +54,10 @@ const posts = [
     },
   },
 
-
-
 ]
 export const Present = () => {
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white pb-10 sm:pb-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         {/*
           <div className="mx-auto max-w-2xl lg:mx-0">
@@ -91,7 +87,10 @@ export const Present = () => {
                     {post.title}
                   </div>
                 </h3>
-                <p className="mt-5 line-clamp-7 text-sm leading-6 text-gray-600">{post.description}</p>
+                <p
+                  className="mt-5 line-clamp-7 text-sm leading-6 text-gray-600">{post.description.split('\n').map((paragraph, index) => (
+                  <p key={index}>{paragraph}</p>
+                ))}</p>
               </div>
               <div className="relative mt-8 flex items-center gap-x-4">
                 <img src={post.author.imageUrl} alt="" className="h-16 w-16 rounded-full bg-gray-50"/>

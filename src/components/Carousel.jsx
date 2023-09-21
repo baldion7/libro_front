@@ -20,8 +20,8 @@ const settext = (text) => {
 				<img src={localhost+'/'+img} alt={name} className='img-studen'/>
 			</div>
 			<div className="carousel__item-body">
-				<p className="title">{name}</p>
-				<p>{unicode}</p>
+				<p style={{ fontFamily: 'Indie Flower, cursive'}} className="title">{name}</p>
+				<p style={{ fontFamily: 'Indie Flower, cursive'}}>{unicode}</p>
 			</div>
 		</button>
 

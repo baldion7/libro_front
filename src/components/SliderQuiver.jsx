@@ -30,7 +30,7 @@ export const SliderQuiver = ({quiver}) => {
         }}
         pagination={true}
         modules={[EffectCoverflow, Pagination]}
-        className="mySwiper"
+        className="mySwiper pt-7"
       >
         {quiver && quiver.map(({ url }, id) => (
           <SwiperSlide key={id}><img src={localhost+'/'+url} alt=""/></SwiperSlide>

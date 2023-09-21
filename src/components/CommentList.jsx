@@ -5,7 +5,7 @@ export const CommentList = ({pent}) => {
   useEffect(() => {
     const fetchComments = async () => {
       try {
-        const response = await fetch('http://191.101.1.160/api/comments');
+        const response = await fetch('http://olevengalecuento.online/api/comments');
         const data = await response.json();
         setData(data);
       } catch (error) {
@@ -20,8 +20,8 @@ export const CommentList = ({pent}) => {
 
   return (
     <>
-      {data && data.map((comment) => (
-        <div key={comment.id} className={'mx-auto max-w-7xl px-6 lg:px-8 flex items-start pl-3 flex-row pb-6 '}>
+      {data && data.map((comment,index) => (
+        <div key={index} className={'mx-auto max-w-7xl px-6 lg:px-8 flex items-start pl-3 flex-row pb-6 '}>
           <div className={'items-center mr-3'}>
             <img src={'https://www.gravatar.com/avatar/7826a3c63d58b7063f7907ed4dc6f8f2?size=50&r=pg&d=mm'} />
           </div>

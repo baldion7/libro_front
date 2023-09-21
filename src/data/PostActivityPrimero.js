@@ -19,17 +19,17 @@ export const PostActivityPrimero = [
     ],
     title: 'Contar, Ver, imaginar, transformar, Imitar y crear: Una Aventura Creativa en Cuentos Ilustrados para Primer Grado',
     text: '¡Prepárense para vivir una experiencia única de lectura, arte e imaginación a través de cuentos ilustrados leídos en clase   y como resultado los siguientes cuentos escritas por ellos: \n' +
-      'Coquito\n' +
-      'Máximo\n' +
-      'Blue\n' +
-      'Ferozky\n' +
-      'Yo y mis abuelos\n' +
-      'Mis abuelos coloridos\n' +
-      'El pez pájaro\n' +
-      'Pajarito Bebe\n' +
-      'Nueve\n' +
-      'Max\n' +
-      'Manchas\n' +
+      'Coquito,\n' +
+      'Máximo,\n' +
+      'Blue,\n' +
+      'Ferozky,\n' +
+      'Yo y mis abuelos,\n' +
+      'Mis abuelos coloridos,\n' +
+      'El pez pájaro,\n' +
+      'Pajarito Bebe,\n' +
+      'Nueve,\n' +
+      'Max,\n' +
+      'Manchas.\n' +
       'Mi monstruo se llama: Feroz\n' +
       'A medida que se les leen los cuentos, pueden ver las coloridas imágenes que los acompañan, lo que les permite sumergirse por completo en la historia. Después de la lectura, se les anima a usar su creatividad para imitar las imágenes y personajes que han cautivado sus corazones. \n' +
       '\n' +
@@ -50,7 +50,7 @@ export const PostActivityPrimero = [
         url: 'src/img/¡Prepárense para vivir una experiencia única de lectura,8.jpg',
       }
     ],
-    youtube:'GVEk3GKqtwg'
+    youtube:[{ src:'GVEk3GKqtwg'}],
 
   },
   {
@@ -179,7 +179,7 @@ export const PostActivityPrimero = [
     title: '¡Bienvenidos al Aula de la Sabiduría! - Una Visita Especial con la Abuela para Preguntas Curiosas en Primer Grado',
     text: '¡Prepárense para una tarde llena de preguntas, respuestas y amor compartido entre la abuela y sus curiosos nietos!\n' +
       'Reciben una visita muy especial: la abuela de Luna Mariana. Con su vasto conocimiento y sabiduría, la abuela comparte con los niños historias, tradiciones y respuestas a todas sus preguntas curiosas. Este encuentro en el aula es una celebración del aprendizaje intergeneracional y una ocasión para que los pequeños puedan descubrir más sobre el mundo que los rodea. \n',
-    youtube: 'MENXmP_thgo'
+    youtube: [{ src:'MENXmP_thgo'}]
   },
   {
     id: 7,
@@ -303,5 +303,57 @@ export const PostActivityPrimero = [
         url: 'src/img/Uniendo Dos Mundos8.jpg',
       }
     ]
+  },
+  {
+    id: 10,
+    imagen: [{
+      id: 1,
+      img: 'src/img/WhatsApp Image 2023-09-16 at 11.00.39 PM.jpeg',
+    },
+      {
+        id: 2,
+        img: 'src/img/WhatsApp Image 2023-09-16 at 11.00.39 PM (1).jpeg',
+
+      },
+      {
+        id: 3,
+        img: 'src/img/WhatsApp Image 2023-09-16 at 11.00.38 PM.jpeg',
+
+      },
+
+    ],
+    title: 'Mi Juguete Favorito: Un Dibujo y una Historia',
+    text: 'tienen la  oportunidad de compartir su juguete favorito a través de un dibujo y relatar la historia detrás de su adquisición. Esta actividad fomenta la creatividad, la expresión personal y la comunicación en casa, fortaleciendo los lazos entre la escuela y la familia. ',
+    slider: [{
+      url: 'src/img/WhatsApp Image 2023-09-16 at 11.00.38 PM (3).jpeg',
+    },
+      {
+        url: 'src/img/WhatsApp Image 2023-09-16 at 11.00.38 PM (2).jpeg',
+      },
+      {
+        url: 'src/img/WhatsApp Image 2023-09-16 at 11.00.38 PM (1).jpeg',
+      }
+    ],
+    youtube: [{src:'_ZWjdeJAoBk' }],
+  },
+  {
+    id: 11,
+
+    title: 'Creando con Amor: Nuestro Abuelo Preferido en Plastilina',
+    text: 'A través de un viaje creativo y afectuoso mientras moldean con plastilina a su abuelos de la familia. A medida que dan forma a estas figuras especiales, no solo desarrollan habilidades artísticas, sino que también fortalecen los lazos familiares al compartir historias y recuerdos sobre sus queridos abuelos. Esta experiencia les brinda la oportunidad de expresar su cariño de una manera única y memorable. ',
+    slider: [{
+      url: 'src/img/WhatsApp Image 2023-09-17 at 9.31.27 PM.jpeg',
+    },
+      {
+        url: 'src/img/WhatsApp Image 2023-09-17 at 9.31.07 PM.jpeg',
+      },
+      {
+        url: 'src/img/WhatsApp Image 2023-09-17 at 9.30.53 PM.jpeg',
+      },
+      {
+        url: 'src/img/WhatsApp Image 2023-09-17 at 9.30.40 PM.jpeg',
+      }
+    ],
+    youtube: [{ src:'evzRCT2ORMs'}],
   },
 ]
