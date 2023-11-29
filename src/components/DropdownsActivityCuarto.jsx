@@ -28,7 +28,19 @@ export const DropdownsActivityCuarto = () => {
         >
           <Menu.Items className="absolute right-2 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
             <div className="py-1 overflow-auto h-80" style={{backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgJNV4oDqU9yPAXjA6pKJYr-DXK--XbDUFA&usqp=CAU)`,fontWeight: 'bold', backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat',}}>
-
+              <Menu.Item>
+                {({ active }) => (
+                  <Link
+                    to="/metodologia"
+                    className={classNames(
+                      active ? 'bg-gray-100 text-gray-900 font-Edu' : 'text-gray-700 font-Edu',
+                      'block px-4 py-2 text-sm'
+                    )}
+                  >
+                    Metologia
+                  </Link>
+                )}
+              </Menu.Item>
             <Menu.Item>
                 {({ active }) => (
                   <Link

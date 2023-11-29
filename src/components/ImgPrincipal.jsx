@@ -3,8 +3,8 @@ import { useEffect, useState } from 'react'
 export const ImgPrincipal = ({localhost}) => {
 	const [currentImageIndex, setCurrentImageIndex] = useState(0);
 	const images = [
-		'/src/img/WhatsApp Image 2023-08-04 at 11.20.07 AM.jpeg',
-		'/src/img/WhatsApp Image 2023-09-20 at 9.29.21 PM.jpeg',
+		'img/WhatsApp Image 2023-08-04 at 11.20.07 AM.jpeg',
+		'img/WhatsApp Image 2023-09-20 at 9.29.21 PM.jpeg',
 	];
 
 	useEffect(() => {

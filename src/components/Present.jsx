@@ -14,7 +14,7 @@ const posts = [
       role: '',
       href: '#',
       imageUrl:
-        '/src/img/WhatsApp Image 2023-08-07 at 11.38.32 AM.jpeg',
+        '/img/WhatsApp Image 2023-08-07 at 11.38.32 AM.jpeg',
     },
   },
   {
@@ -31,7 +31,7 @@ const posts = [
       role: '',
       href: '#',
       imageUrl:
-        '/src/img/WhatsApp Image 2023-08-06 at 11.01.46 PM.jpeg',
+        '/img/WhatsApp Image 2023-08-06 at 11.01.46 PM.jpeg',
     },
   },
   {
@@ -50,7 +50,7 @@ const posts = [
       role: '',
       href: '#',
       imageUrl:
-        '/src/img/WhatsApp Image 2023-08-07 at 10.46.49 AM.jpeg',
+        '/img/WhatsApp Image 2023-08-07 at 10.46.49 AM.jpeg',
     },
   },
 

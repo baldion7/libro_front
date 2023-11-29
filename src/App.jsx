@@ -19,6 +19,8 @@ import { CaracterisacionPrimero } from './components/CaracterisacionPrimero.jsx'
 import { CaracterisacionCuarto } from './components/CaracterisacionCuarto.jsx'
 import ScrollToTopOnRouteChange from './components/ScrollToTopOnRouteChange.jsx'
 import { Team } from './components/Team.jsx'
+import { Resultados } from './components/Resultados.jsx'
+import MetodologiaSection from './components/MetodologiaSection.jsx'
 
 
 function App () {
@@ -61,7 +63,7 @@ function App () {
   return (
     <>
       <Router>
-        <Navbar scrollToComponent={scrollToComponent}/>
+        <Navbar scrollToComponent={scrollToComponent} rute={localhost}/>
         <ImgPrincipal localhost={localhost}/>
         <div className="wrapper flex flex-wrap " style={{backgroundImage: `url(https://media.istockphoto.com/id/859526062/es/foto/azul-crayola-acuarela-dibujo-textura-de-fondo.jpg?s=170667a&w=0&k=20&c=grbgBxT9BOornUYVTijXZttFr3YnIGpmBOUyYopMiIw=)`,fontWeight: 'bold', backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat'}}>
           <div className="carousel">
@@ -87,13 +89,14 @@ function App () {
         <Routes>
           <Route index  element={<Justificacion rute={localhost}/>}/>
           <Route path="/" lement={<Justificacion rute={localhost}/>}/>
+          <Route path="/resultados" element={<Resultados rute={localhost}/>}/>
           <Route path="/post/:id" element={<About1 rute={localhost} actividades={PostActivityProyect}/>}/>
           <Route path="/primero/:id" element={<About1 rute={localhost} actividades={PostActivityPrimero}/>}/>
           <Route path="/justificacion" element={<Justificacion rute={localhost}/>}/>
           <Route path="/primero" element={<CaracterisacionPrimero rute={localhost}/>}/>
           <Route path="/cuarto" element={<CaracterisacionCuarto rute={localhost}/>}/>
           <Route path="/quiver" element={<Quiver/>}/>
-
+          <Route path="/metodologia" element={<MetodologiaSection />}/>
           <Route path='*' element={<Navigate to='/' replace />} />
         </Routes>
         </div>

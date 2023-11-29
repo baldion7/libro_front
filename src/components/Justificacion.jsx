@@ -22,14 +22,12 @@ export const Justificacion = ({ rute }) => {
                 las docentes del Colegio Luis Carlos Galán Sarmiento, Sede B El Consuelo, en apoyar los procesos de
                 aprendizaje de los estudiantes de grado cuarto quienes vienen siendo el grupo focalizado de estudio
                 desde
-                el preescolar. El proyecto "OLE mano, venga le cuento", busca desarrollar habilidades comunicativas
+                el preescolar. El proyecto "OLE , venga le cuento", busca desarrollar habilidades comunicativas
                 fundamentales desde el grado primero (1-1 JT) por motivación de la docente titular de aplicar las
                 herramientas, instrumentos, estrategias pedagógicas  y afianzarlas de manera en grado cuarto: (4-1 JM) y así,
                 puedan tener una perspectiva de su su proyecto de vida. Para ello, para ello se seleccionan herramientas
                 proporcionadas por el Ministerio de Educación Nacional y la Secretaría de Educación Municipal.
-
                 </p>
-
                   El proyecto educativo "OLE, venga le cuento" retoma el trabajo de años anteriores y crea instrumentos
                   que nos acerca a la comprensión del contexto y a la realidad que ha los niños les ha correspondido
                   vivir y sobre la cual los docentes ejercemos una transformación que nos conduce a la creación

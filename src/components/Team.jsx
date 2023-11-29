@@ -2,32 +2,32 @@ const people = [
   {
     name: 'Patricia Sanmiguel ',
     role: 'Historiadora de Girón ',
-    imageUrl:'src/img/WhatsApp Image 2023-09-20 at 3.42.57 PM.jpeg',
+    imageUrl:'img/WhatsApp Image 2023-09-20 at 3.42.57 PM.jpeg',
   },
   {
     name: 'Juan Sebastian peña Mariño',
     role: 'Docente- coordinación editorial ',
-    imageUrl: 'src/img/WhatsApp Image 2023-09-20 at 3.00.18 PM.jpeg',
+    imageUrl: 'img/WhatsApp Image 2023-09-20 at 3.00.18 PM.jpeg',
   },
   {
     name: 'Kevin José Quiñones Baldion',
     role: 'Desarrollar de software',
-    imageUrl: 'src/img/WhatsApp Image 2023-09-20 at 10.14.29 PM.jpeg',
+    imageUrl: 'img/WhatsApp Image 2023-09-20 at 10.14.29 PM.jpeg',
   },
   {
     name: 'Nima Nemati Rodríguez',
     role: 'Aliado Estratégico y Colaboradora Especial',
-    imageUrl: 'src/img/WhatsApp Image 2023-09-20 at 9.58.21 PM.jpeg',
+    imageUrl: 'img/WhatsApp Image 2023-09-20 at 9.58.21 PM.jpeg',
   },
   {
     name: 'Emile Duarte porras',
     role: 'Colaboradora ensamblaje del fanzine artesanal',
-    imageUrl: 'src/img/WhatsApp Image 2023-09-20 at 3.29.45 PM.jpeg',
+    imageUrl: 'img/WhatsApp Image 2023-09-20 at 3.29.45 PM.jpeg',
   },
   {
     name: 'Compañeros docentes sede B El Consuelo',
     role: ' Gracias por los espacios brindados.',
-    imageUrl: 'src/img/WhatsApp Image 2023-09-20 at 10.00.40 PM.jpeg',
+    imageUrl: 'img/WhatsApp Image 2023-09-20 at 10.00.40 PM.jpeg',
   },
 
 ];

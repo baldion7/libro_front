@@ -5,7 +5,7 @@ export const CommentList = ({pent}) => {
   useEffect(() => {
     const fetchComments = async () => {
       try {
-        const response = await fetch('http://olevengalecuento.online/api/comments');
+        const response = await fetch('https://olevengalecuento.online/api/comments');
         const data = await response.json();
         setData(data);
       } catch (error) {

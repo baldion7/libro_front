@@ -26,3 +26,12 @@
     color: hsl(35, 35, 35);
     border: solid 2px hsl(35, 20, 50);
 }
+
+.enlace-personalizado {
+    color: red; /* Cambia "red" al color que desees */
+    text-decoration: none; /* Esto quitará la subrayado predeterminado de los enlaces */
+}
+
+.enlace-personalizado:hover {
+    color: blue; /* Cambia "blue" al color que desees cuando el enlace se coloca sobre él */
+}

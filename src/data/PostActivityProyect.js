@@ -3,16 +3,16 @@ export const PostActivityProyect = [
     id: 1,
     imagen: [{
       id: 1,
-      img: 'src/img/IMG_20230613_165456-1-461x1024.jpg',
+      img: 'img/IMG_20230613_165456-1-461x1024.jpg',
     },
       {
         id: 2,
-        img: 'src/img/IMG_20230613_170051-461x1024.jpg',
+        img: 'img/IMG_20230613_170051-461x1024.jpg',
 
       },
       {
         id: 3,
-        img: 'src/img/IMG_20230613_162921-461x1024.jpg',
+        img: 'img/IMG_20230613_162921-461x1024.jpg',
 
       },
 
@@ -29,16 +29,16 @@ export const PostActivityProyect = [
       'Esta actividad permitió a los estudiantes conectarse de manera profunda con sus raíces, descubrir nuevas perspectivas y apreciar el valor de la tradición y el progreso. Los abuelos, a su vez, se sintieron valorados y escuchados, experimentando la satisfacción de compartir su sabiduría con las generaciones más jóvenes.\n' +
       '\n',
     slider: [{
-      url: 'src/img/IMG_20230613_162556-1024x461.jpg',
+      url: 'img/IMG_20230613_162556-1024x461.jpg',
     },
       {
-        url: 'src/img/IMG_20230613_163742-1024x461.jpg',
+        url: 'img/IMG_20230613_163742-1024x461.jpg',
       },
       {
-        url: 'src/img/IMG_20230613_163629-1024x461.jpg',
+        url: 'img/IMG_20230613_163629-1024x461.jpg',
       },
       {
-        url: 'src/img/WhatsApp Image 2023-07-25 at 7.11.52 PM.jpeg',
+        url: 'img/WhatsApp Image 2023-07-25 at 7.11.52 PM.jpeg',
       }
     ],
     youtube: [{ src: '4sZ6uOFaVc8' }]
@@ -48,16 +48,16 @@ export const PostActivityProyect = [
     id: 2,
     imagen: [{
       id: 1,
-      img: 'src/img/IMG_20230702_180715-454x1024.jpg',
+      img: 'img/IMG_20230702_180715-454x1024.jpg',
     },
       {
         id: 2,
-        img: 'src/img/IMG_20230621_094610-edited-scaled.jpg',
+        img: 'img/IMG_20230621_094610-edited-scaled.jpg',
 
       },
       {
         id: 3,
-        img: 'src/img/IMG_20230702_180742-461x1024.jpg',
+        img: 'img/IMG_20230702_180742-461x1024.jpg',
 
       }
     ],
@@ -67,10 +67,10 @@ export const PostActivityProyect = [
       'A través de sus palabras, los estudiantes transmitieron gratitud por los valores transmitidos por sus abuelos, por el amor incondicional recibido y por el tiempo y la atención dedicados a ellos en estas actividades realizadas en este propuesta educativa como lo es pisquitas de memorias. Además, aprovecharon la oportunidad para expresar la importancia de la conexión intergeneracional y cómo los abuelos han dejado una profunda impresión en su identidad y forma de ver el mundo.\n\n' +
       'En estas cartas, los estudiantes compartieron momentos especiales, anécdotas y lecciones aprendidas de sus abuelos. Expresaron cómo los abuelos han sido un apoyo constante, un ejemplo a seguir y una fuente de sabiduría invaluable. A través de sus palabras, los estudiantes demostraron la importancia de mantener el vínculo con los abuelos y de valorar su presencia en sus vidas.\n\n',
     slider: [{
-      url: 'src/img/IMG_20230702_180838-779x1024.jpg',
+      url: 'img/IMG_20230702_180838-779x1024.jpg',
     },
       {
-        url: 'src/img/IMG_20230702_180919-1024x492.jpg',
+        url: 'img/IMG_20230702_180919-1024x492.jpg',
       }
     ],
   },
@@ -78,16 +78,16 @@ export const PostActivityProyect = [
     id: 3,
     imagen: [{
       id: 1,
-      img: 'src/img/IMG_20230702_093822-900x1024.jpg',
+      img: 'img/IMG_20230702_093822-900x1024.jpg',
     },
       {
         id: 2,
-        img: 'src/img/IMG_20230702_093338-495x1024.jpg',
+        img: 'img/IMG_20230702_093338-495x1024.jpg',
 
       },
       {
         id: 3,
-        img: 'src/img/IMG_20230702_093312-460x1024.jpg',
+        img: 'img/IMG_20230702_093312-460x1024.jpg',
 
       }
     ],
@@ -103,13 +103,13 @@ export const PostActivityProyect = [
       'Estas respuestas, enriquecidas por la autenticidad y la sabiduría de los niños, nos invitan a reflexionar sobre nuestro propio papel en la vida y cómo podemos nutrir y apoyar el crecimiento de las nuevas generaciones. Nos recuerdan que los niños son seres extraordinarios, capaces de ver la realidad de una manera única y brindarnos una perspectiva fresca y valiosa.\n' +
       '\n',
     slider: [{
-      url: 'src/img/IMG_20230702_093249-461x1024.jpg',
+      url: 'img/IMG_20230702_093249-461x1024.jpg',
     },
       {
-        url: 'src/img/IMG_20230702_093230-461x1024.jpg',
+        url: 'img/IMG_20230702_093230-461x1024.jpg',
       },
       {
-        url: 'src/img/IMG_20230702_093055-461x1024.jpg',
+        url: 'img/IMG_20230702_093055-461x1024.jpg',
       }
 
     ],
@@ -119,7 +119,7 @@ export const PostActivityProyect = [
     id: 4,
     imagen: [{
       id: 1,
-      img: 'src/img/WhatsApp Image 2023-08-27 at 7.05.25 PM.jpeg',
+      img: 'img/WhatsApp Image 2023-08-27 at 7.05.25 PM.jpeg',
     }],
     title: 'Inmersión cultural: Visita de estudiantes de la comunidad indígena Inga del Putumayo a la sede educativa',
     text: 'En esta emocionante actividad, los estudiantes tuvieron la maravillosa oportunidad de recibir la visita de jóvenes estudiantes de la UIS de la comunidad indígena Inga en la sede educativa. Durante esta visita, los integrantes de la comunidad nos recordaron nuestras raíces y nos sumergieron en su rica cultura ancestral. Ubicada en el hermoso departamento del Putumayo, la comunidad Inga nos brindó una visión completa de su economía, vivienda, educación, costumbres y tradiciones.\n' +
@@ -133,23 +133,23 @@ export const PostActivityProyect = [
       'Además, nos introdujeron al mundo de los animales en su lengua nativa. Aprendimos palabras como «alku» para perro, «misitu» para gato y «atawalpa» para gallina. También disfrutamos de canciones infantiles, como la famosa «Vaca Lola», que nos permitieron compartir risas y momentos divertidos con estos jóvenes estudiantes de la comunidad Inga.\n' +
       '\n',
     slider: [{
-      url: 'src/img/IMG_20230607_092929-1024x461.jpg',
+      url: 'img/IMG_20230607_092929-1024x461.jpg',
     },
       {
-        url: 'src/img/IMG_20230607_081333-1-1024x461.jpg',
+        url: 'img/IMG_20230607_081333-1-1024x461.jpg',
       },
       {
-        url: 'src/img/IMG_20230607_093139-1024x461.jpg',
+        url: 'img/IMG_20230607_093139-1024x461.jpg',
       }
 
     ],
     youtube: [{ src: 'f1ec6tgzBR0' }, { src: 'WtxSSWy0Bk8' }],
     videos: [
       {
-        video: 'src/video/VID-20230620-WA0031.mp4'
+        video: 'video/VID-20230620-WA0031.mp4'
       },
       {
-        video: 'src/video/VID-20230620-WA0034.mp4'
+        video: 'video/VID-20230620-WA0034.mp4'
       }
     ]
   },
@@ -157,11 +157,11 @@ export const PostActivityProyect = [
     id: 5,
     imagen: [{
       id: 1,
-      img: 'src/img/WhatsApp Image 2023-09-17 at 7.07.57 PM (1).jpeg'
+      img: 'img/WhatsApp Image 2023-09-17 at 7.07.57 PM (1).jpeg'
     },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-09-17 at 7.07.57 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-09-17 at 7.07.57 PM.jpeg',
       }
     ],
     youtube: [{ src: 'kDzVK8vyOsQ' }],
@@ -185,14 +185,14 @@ export const PostActivityProyect = [
     id: 6,
     imagen: [ {
       id: 23,
-      img: 'src/img/WhatsApp Image 2023-09-17 at 9.14.03 PM.jpeg',
+      img: 'img/WhatsApp Image 2023-09-17 at 9.14.03 PM.jpeg',
     },
       {
         id: 24,
-        img: 'src/img/WhatsApp Image 2023-09-17 at 9.14.03 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-09-17 at 9.14.03 PM (1).jpeg',
       },{
         id: 25,
-        img: 'src/img/WhatsApp Image 2023-09-17 at 9.14.03 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-09-17 at 9.14.03 PM (2).jpeg',
       },
     ],
     title: '¡Queridos Taitas, No Se Asusten! Una Carta Llena de Travesuras y Confesiones',
@@ -212,16 +212,16 @@ export const PostActivityProyect = [
     id: 7,
     imagen: [{
       id: 1,
-      img: 'src/img/IMG_20230701_222706-461x1024.jpg',
+      img: 'img/IMG_20230701_222706-461x1024.jpg',
     },
       {
         id: 2,
-        img: 'src/img/IMG_20230701_222803-461x1024.jpg',
+        img: 'img/IMG_20230701_222803-461x1024.jpg',
 
       },
       {
         id: 3,
-        img: 'src/img/IMG_20230701_222744-461x1024.jpg',
+        img: 'img/IMG_20230701_222744-461x1024.jpg',
 
       }
     ],
@@ -244,19 +244,19 @@ export const PostActivityProyect = [
       '\n' +
       'Profesoras de cuarto de la sede B El Consuelo: Leyanis, Celmira, Mary y Claudia',
     slider: [{
-      url: 'src/img/IMG_20230621_100147-1024x461.jpg',
+      url: 'img/IMG_20230621_100147-1024x461.jpg',
     },
       {
-        url: 'src/img/IMG_20230621_100339-edited-scaled.jpg',
+        url: 'img/IMG_20230621_100339-edited-scaled.jpg',
       },
       {
-        url: 'src/img/IMG_20230621_100335-edited-scaled.jpg',
+        url: 'img/IMG_20230621_100335-edited-scaled.jpg',
       }
 
     ],
     videos: [
       {
-        video: 'src/video/YouCut_20230701_230311805.mp4'
+        video: 'video/YouCut_20230701_230311805.mp4'
       }
     ]
   },
@@ -264,28 +264,28 @@ export const PostActivityProyect = [
     id: 8,
     imagen: [{
       id: 1,
-      img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.17 PM.jpeg',
+      img: 'img/WhatsApp Image 2023-08-28 at 4.23.17 PM.jpeg',
     },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.17 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.23.17 PM (1).jpeg',
 
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.18 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.23.18 PM.jpeg',
 
       }
       ,
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.18 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.23.18 PM (1).jpeg',
 
       }
       ,
       {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.23.18 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.23.18 PM (2).jpeg',
 
       }
     ],
@@ -303,16 +303,16 @@ export const PostActivityProyect = [
     id: 9,
     imagen: [{
       id: 1,
-      img: 'src/img/El-municipio-en-el-pais-494x350.jpg',
+      img: 'img/El-municipio-en-el-pais-494x350.jpg',
     },
       {
         id: 2,
-        img: 'src/img/IMG_20230519_082248-1024x461.jpg',
+        img: 'img/IMG_20230519_082248-1024x461.jpg',
 
       },
       {
         id: 3,
-        img: 'src/img/IMG_20230519_082205-461x1024.jpg',
+        img: 'img/IMG_20230519_082205-461x1024.jpg',
 
       }
     ],
@@ -326,16 +326,16 @@ export const PostActivityProyect = [
       '\n' +
       'Así que prepárense para sumergirse en este maravilloso viaje cartográfico, donde los niños son nuestras guías entusiastas y nos enseñarán que cada lugar tiene su propia magia y que las historias más fascinantes están escondidas justo en nuestra propia comunidad. ¡Es hora de abrir los carteles y embarcarnos en una aventura única por la «Cartografía de mi Barrio»!',
     slider: [{
-      url: 'src/img/IMG_20230519_082405-1024x461.jpg',
+      url: 'img/IMG_20230519_082405-1024x461.jpg',
     },
       {
-        url: 'src/img/IMG_20230519_082353-1024x461.jpg',
+        url: 'img/IMG_20230519_082353-1024x461.jpg',
       },
       {
-        url: 'src/img/IMG_20230519_082236-1024x461.jpg',
+        url: 'img/IMG_20230519_082236-1024x461.jpg',
       },
       {
-        url: 'src/img/IMG_20230519_082412-1024x461.jpg',
+        url: 'img/IMG_20230519_082412-1024x461.jpg',
       }
 
     ],
@@ -345,16 +345,16 @@ export const PostActivityProyect = [
     id: 10,
     imagen: [{
       id: 1,
-      img: 'src/img/IMG_20230621_082247-461x1024.jpg',
+      img: 'img/IMG_20230621_082247-461x1024.jpg',
     },
       {
         id: 2,
-        img: 'src/img/IMG_20230621_082233-461x1024.jpg',
+        img: 'img/IMG_20230621_082233-461x1024.jpg',
 
       },
       {
         id: 3,
-        img: 'src/img/IMG_20230621_082319-461x1024.jpg',
+        img: 'img/IMG_20230621_082319-461x1024.jpg',
 
       }
     ],
@@ -367,13 +367,13 @@ export const PostActivityProyect = [
       '\n' +
       'Acompáñanos en esta aventura literaria, donde descubriremos cómo estos talentosos jóvenes expresan su vida, sus sueños y esperanzas en el maravilloso formato de un mini libro. ¡Es hora de abrir estas pequeñas joyas y explorar los universos que hay dentro!',
     slider: [{
-      url: 'src/img/IMG_20230621_082310-461x1024.jpg',
+      url: 'img/IMG_20230621_082310-461x1024.jpg',
     },
       {
-        url: 'src/img/IMG_20230621_082557-461x1024.jpg',
+        url: 'img/IMG_20230621_082557-461x1024.jpg',
       },
       {
-        url: 'src/img/IMG_20230621_082319-461x1024.jpg',
+        url: 'img/IMG_20230621_082319-461x1024.jpg',
       }
 
     ],
@@ -382,21 +382,21 @@ export const PostActivityProyect = [
     id: 12,
     imagen: [{
       id: 1,
-      img: 'src/img/segundapartedeSorbitosdememoriafoto1.jpg',
+      img: 'img/segundapartedeSorbitosdememoriafoto1.jpg',
     },
       {
         id: 2,
-        img: 'src/img/segundapartedeSorbitosdememoriafoto2.jpg',
+        img: 'img/segundapartedeSorbitosdememoriafoto2.jpg',
 
       },
       {
         id: 3,
-        img: 'src/img/segundapartedeSorbitosdememoriafoto3.jpg',
+        img: 'img/segundapartedeSorbitosdememoriafoto3.jpg',
 
       },
       {
         id: 4,
-        img: 'src/img/segundapartedeSorbitosdememoriafoto4.jpg',
+        img: 'img/segundapartedeSorbitosdememoriafoto4.jpg',
 
       }
     ],
@@ -409,71 +409,71 @@ export const PostActivityProyect = [
     id: 13,
     imagen: [{
       id: 1,
-      img: 'src/img/WhatsApp Image 2023-08-06 at 11.32.58 AM.jpeg',
+      img: 'img/WhatsApp Image 2023-08-06 at 11.32.58 AM.jpeg',
     },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.05 AM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.31.05 AM.jpeg',
 
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.05 AM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.31.05 AM (2).jpeg',
 
       },
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.05 AM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.31.05 AM (1).jpeg',
 
       }, {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.04 AM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.31.04 AM.jpeg',
       },
       {
         id: 6,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.04 AM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.31.04 AM (3).jpeg',
 
       },
       {
         id: 7,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.04 AM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.31.04 AM (2).jpeg',
 
       },
       {
         id: 8,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.31.04 AM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.31.04 AM (1).jpeg',
 
       }, {
         id: 9,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.52 AM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.29.52 AM.jpeg',
 
       },
       {
         id: 10,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.51 AM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.29.51 AM.jpeg',
 
       },
       {
         id: 11,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.51 AM (4).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.29.51 AM (4).jpeg',
 
       }, {
         id: 12,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.51 AM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.29.51 AM (3).jpeg',
       },
       {
         id: 13,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.51 AM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.29.51 AM (2).jpeg',
 
       },
       {
         id: 14,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.51 AM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.29.51 AM (1).jpeg',
 
       },
       {
         id: 15,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 11.29.50 AM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 11.29.50 AM.jpeg',
 
       }
     ],
@@ -484,44 +484,44 @@ export const PostActivityProyect = [
     id: 14,
     imagen: [{
       id: 1,
-      img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.52 PM (1).jpeg',
+      img: 'img/WhatsApp Image 2023-08-06 at 12.45.52 PM (1).jpeg',
     },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.52 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.52 PM (2).jpeg',
 
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.52 PM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.52 PM (3).jpeg',
 
       },
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.52 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.52 PM.jpeg',
 
       }, {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.53 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.53 PM (1).jpeg',
       },
       {
         id: 6,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.53 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.53 PM (2).jpeg',
 
       },
       {
         id: 7,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.53 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.53 PM.jpeg',
 
       },
       {
         id: 8,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.54 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.54 PM (1).jpeg',
 
       },
       {
         id: 9,
-        img: 'src/img/WhatsApp Image 2023-08-06 at 12.45.54 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-06 at 12.45.54 PM.jpeg',
 
       }
     ],
@@ -533,25 +533,25 @@ export const PostActivityProyect = [
     id: 15,
     imagen: [{
       id: 1,
-      img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.04 PM.jpeg',
+      img: 'img/WhatsApp Image 2023-08-28 at 4.42.04 PM.jpeg',
     },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.31 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.42.31 PM (1).jpeg',
 
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.31 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.42.31 PM.jpeg',
 
       },
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.42.32 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.42.32 PM.jpeg',
 
       }, {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 4.44.56 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 4.44.56 PM.jpeg',
       },
     ],
     title: 'Pequeñas grandes historias: Relatos de estudiantes que conmueven el alma',
@@ -562,49 +562,49 @@ export const PostActivityProyect = [
     imagen: [
       {
         id: 1,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.55 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.55 PM.jpeg',
       },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.56 PM.jpeg',
 
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.56 PM (1).jpeg',
 
       },
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.56 PM (2).jpeg',
 
       },
       {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.56 PM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.56 PM (3).jpeg',
       },
       {
         id: 6,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.57 PM.jpeg',
       },
       {
         id: 7,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.57 PM (1).jpeg',
 
       },
       {
         id: 8,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.57 PM (2).jpeg',
 
       },
       {
         id: 9,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.57 PM (3).jpeg',
 
       },
       {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
       },
     ],
     title: 'Ilustrando la portada del libro: "En algún lugar de la escuela: Relatos de niños y niñas del barrio El Consuelo"',
@@ -615,34 +615,34 @@ export const PostActivityProyect = [
     imagen: [
       {
         id: 1,
-        img: 'src/img/CamScanner 27-07-2023 14.32_2.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_2.jpg',
       }, {
         id: 2,
-        img: 'src/img/CamScanner 27-07-2023 14.32_3.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_3.jpg',
       }, {
         id: 3,
-        img: 'src/img/CamScanner 27-07-2023 14.32_7.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_7.jpg',
       }, {
         id: 4,
-        img: 'src/img/CamScanner 27-07-2023 14.32_9.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_9.jpg',
       }, {
         id: 5,
-        img: 'src/img/CamScanner 27-07-2023 14.32_11.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_11.jpg',
       }, {
         id: 6,
-        img: 'src/img/CamScanner 27-07-2023 14.32_17.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_17.jpg',
       }, {
         id: 7,
-        img: 'src/img/CamScanner 27-07-2023 14.32_21.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_21.jpg',
       }, {
         id: 8,
-        img: 'src/img/CamScanner 27-07-2023 14.32_38.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_38.jpg',
       }, {
         id: 9,
-        img: 'src/img/CamScanner 27-07-2023 14.32_44.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_44.jpg',
       }, {
         id: 10,
-        img: 'src/img/CamScanner 27-07-2023 14.32_48.jpg',
+        img: 'img/CamScanner 27-07-2023 14.32_48.jpg',
       },
     ],
     title: 'Personajes que cobran vida: Dibujando a los protagonistas imaginados',
@@ -653,45 +653,45 @@ export const PostActivityProyect = [
     imagen: [
       {
         id: 1,
-        img: 'src/img/CamScanner 17-08-2023 13.25_57.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_57.jpg',
       },
       {
         id: 2,
-        img: 'src/img/CamScanner 17-08-2023 13.25_45.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_45.jpg',
 
       },
 
       {
         id: 4,
-        img: 'src/img/CamScanner 17-08-2023 13.25_21.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_21.jpg',
 
       },
       {
         id: 5,
-        img: 'src/img/CamScanner 17-08-2023 13.25_30.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_30.jpg',
       },
       {
         id: 6,
-        img: 'src/img/CamScanner 17-08-2023 13.25_35.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_35.jpg',
       },
       {
         id: 7,
-        img: 'src/img/CamScanner 17-08-2023 13.25_6.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_6.jpg',
 
       },
       {
         id: 8,
-        img: 'src/img/CamScanner 17-08-2023 13.25_12.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_12.jpg',
 
       },
       {
         id: 9,
-        img: 'src/img/CamScanner 17-08-2023 13.25_19.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_19.jpg',
 
       },
       {
         id: 10,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
       },
     ],
     title: 'Mi lugar favorito de la escuela',
@@ -702,56 +702,56 @@ export const PostActivityProyect = [
     imagen: [
       {
         id: 1,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.47 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.47 PM.jpeg',
       },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.48 PM.jpeg',
 
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.48 PM (1).jpeg',
 
       },
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.48 PM (2).jpeg',
 
       },
       {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.48 PM (3).jpeg',
       },
       {
         id: 6,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.48 PM (4).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.48 PM (4).jpeg',
       },
       {
         id: 7,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.49 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.49 PM.jpeg',
 
       },
       {
         id: 8,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.57.49 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.57.49 PM (1).jpeg',
 
       },
       {
         id: 9,
-        img: 'src/img/CamScanner 17-08-2023 13.25_19.jpg',
+        img: 'img/CamScanner 17-08-2023 13.25_19.jpg',
 
       },
       {
         id: 10,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 5.05.57 PM (4).jpeg',
       },
     ],
     title: 'El futuro de la literatura: Presentación de los pequeños autores',
     text: 'Presentación de los talentosos escritores de la escuela, verdaderos protagonistas del libro que reúne sus conmovedores relatos sobre sus vidas, con la autenticidad e ingenuidad de sus cortos años.\n' + ' Con sinceridad e inspiración han plasmado sus memorias, siendo un orgullo por su creatividad. Estos valientes narradores abren una ventana a sus mentes y corazones extraordinarios, siendo el futuro de la literatura.',
     videos: [
       {
-        video: 'src/video/WhatsApp Video 2023-08-28 at 5.57.49 PM.mp4'
+        video: 'video/WhatsApp Video 2023-08-28 at 5.57.49 PM.mp4'
       }
     ]
   },
@@ -760,44 +760,44 @@ export const PostActivityProyect = [
     imagen: [
       {
         id: 1,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.11.28 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.11.28 PM.jpeg',
       },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.11.27 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.11.27 PM (1).jpeg',
 
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.10.21 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.10.21 PM (1).jpeg',
 
       },
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.10.21 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.10.21 PM.jpeg',
 
       },
       {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.09.53 PM (3).jpeg',
       },
       {
         id: 6,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.09.53 PM (2).jpeg',
       },
       {
         id: 7,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.09.53 PM (1).jpeg',
 
       },
       {
         id: 8,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.53 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.09.53 PM.jpeg',
 
       },
       {
         id: 9,
-        img: 'src/img/WhatsApp Image 2023-08-28 at 6.09.44 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-28 at 6.09.44 PM.jpeg',
 
       },
 
@@ -806,11 +806,11 @@ export const PostActivityProyect = [
     text: 'Con gran honor y entusiasmo, este grupo de estudiantes tienen a su cargo la izada del pabellón nacional en conmemoracion a la "Batalla de Boyacá".\n' + ' Bajo la dirección de su directora de grupo, la profesora Mary, acompañado de sus mamás que se hacen participes een este homenaje.',
     videos: [
       {
-        video: 'src/video/VID-20230828-WA0079.mp4'
+        video: 'video/VID-20230828-WA0079.mp4'
       }, {
-        video: 'src/video/VID-20230828-WA0082.mp4'
+        video: 'video/VID-20230828-WA0082.mp4'
       }, {
-        video: 'src/video/WhatsApp Video 2023-08-28 at 6.09.53 PM.mp4'
+        video: 'video/WhatsApp Video 2023-08-28 at 6.09.53 PM.mp4'
       }
     ],
     youtube: [{ src: 'F31l1aeNyko' }],
@@ -820,77 +820,77 @@ export const PostActivityProyect = [
     imagen: [
       {
         id: 1,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.02.02 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.02.02 PM.jpeg',
       },
       {
         id: 18,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.59 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.59 PM (1).jpeg',
       },
       {
         id: 2,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.03.58 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.03.58 PM.jpeg',
       },
       {
         id: 3,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.05.14 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.05.14 PM.jpeg',
       },
       {
         id: 4,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.10.47 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.10.47 PM (1).jpeg',
       },
       {
         id: 5,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.10.47 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.10.47 PM.jpeg',
       },
       {
         id: 6,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.06 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.06 PM.jpeg',
       },
       {
         id: 7,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.31 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.31 PM.jpeg',
       },
       {
         id: 9,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.53 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.53 PM (2).jpeg',
       },
 
       {
         id: 11,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.54 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.54 PM (1).jpeg',
       },
       {
         id: 12,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.54 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.54 PM (2).jpeg',
       },
       {
         id: 13,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.54 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.54 PM.jpeg',
       },
 
       {
         id: 15,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.55 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.55 PM.jpeg',
       },
       {
         id: 16,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.56 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.56 PM (1).jpeg',
       },
       {
         id: 19,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.57 PM (1).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.57 PM (1).jpeg',
       },
       {
         id: 20,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.56 PM.jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.56 PM.jpeg',
       },
       {
         id: 21,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.57 PM (2).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.57 PM (2).jpeg',
       },
       {
         id: 22,
-        img: 'src/img/WhatsApp Image 2023-08-29 at 4.11.57 PM (3).jpeg',
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.57 PM (3).jpeg',
       },
 
 
