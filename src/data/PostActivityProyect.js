@@ -898,4 +898,87 @@ export const PostActivityProyect = [
     title: 'Las Familias de los Pequeños Autores',
     text: 'En nuestros proyectos, ustedes familias han sido los cimientos fuertes que hacen que todo funcione bien.\n' + ' Su compromiso y apoyo han sido muy importantes para que todo salga bien en estos procesos. \n' + 'Les agradecemos mucho por estar siempre animándolos, siendo pacientes y participando activamente.\n' + ' Su unión y ejemplo han ayudado  a lograr  la creación del libro "En algún lugar de la escuela: Relatos de niños y niñas del barrio El Consuelo";  su ayuda, y  su presencia sigue siendo muy importante para lograr los objetivos.',
   },
+  {
+    id: 22,
+    imagen: [
+      {
+        id: 1,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.02.02 PM.jpeg',
+      },
+      {
+        id: 18,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.59 PM (1).jpeg',
+      },
+      {
+        id: 2,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.03.58 PM.jpeg',
+      },
+      {
+        id: 3,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.05.14 PM.jpeg',
+      },
+      {
+        id: 4,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.10.47 PM (1).jpeg',
+      },
+      {
+        id: 5,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.10.47 PM.jpeg',
+      },
+      {
+        id: 6,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.06 PM.jpeg',
+      },
+      {
+        id: 7,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.31 PM.jpeg',
+      },
+      {
+        id: 9,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.53 PM (2).jpeg',
+      },
+
+      {
+        id: 11,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.54 PM (1).jpeg',
+      },
+      {
+        id: 12,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.54 PM (2).jpeg',
+      },
+      {
+        id: 13,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.54 PM.jpeg',
+      },
+
+      {
+        id: 15,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.55 PM.jpeg',
+      },
+      {
+        id: 16,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.56 PM (1).jpeg',
+      },
+      {
+        id: 19,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.57 PM (1).jpeg',
+      },
+      {
+        id: 20,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.56 PM.jpeg',
+      },
+      {
+        id: 21,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.57 PM (2).jpeg',
+      },
+      {
+        id: 22,
+        img: 'img/WhatsApp Image 2023-08-29 at 4.11.57 PM (3).jpeg',
+      },
+
+
+    ],
+    title: 'Las Familias de los Pequeños Autores',
+    text: 'En nuestros proyectos, ustedes familias han sido los cimientos fuertes que hacen que todo funcione bien.\n' + ' Su compromiso y apoyo han sido muy importantes para que todo salga bien en estos procesos. \n' + 'Les agradecemos mucho por estar siempre animándolos, siendo pacientes y participando activamente.\n' + ' Su unión y ejemplo han ayudado  a lograr  la creación del libro "En algún lugar de la escuela: Relatos de niños y niñas del barrio El Consuelo";  su ayuda, y  su presencia sigue siendo muy importante para lograr los objetivos.',
+  },
 ]
