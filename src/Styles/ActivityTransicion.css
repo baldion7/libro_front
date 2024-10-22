@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+    width: 100%;
+}
+
+.titletransicion {
+    background-color: #d6ff8e;
+    display: inline-block;
+    padding: 10px;
+    font-size: 2em;
+    color: #6dbf00;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+.content img {
+    width: 200px;
+    margin: 0 20px;
+}
+
+.text {
+    max-width: 500px;
+    text-align: left;
+    font-size: 1.2em;
+    color: #753b91;
+}

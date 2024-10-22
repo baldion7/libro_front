@@ -22,7 +22,7 @@ const posts = [
     title: 'Mary Claret Forero Jiménez',
     href: '#',
     description:
-      'Licenciada en Educación Especial, con especializaciones en el área de la pedagógica. Docente de aula desde hace 35 años, actualmente directora de grupo grado 4-1 J.M, con quienes se viene trabajando desde el año 2020 proyectos de aula cuya finalidad es mejorar procesos personales y sociales de los estudiantes que conlleven a la motivación permanente de mejorar habilidades en la lectura y escritura. Participante en el proceso de validación nacional de los Créditos de Estándares Básicos de Competencias en Lenguaje.',
+      'Licenciada en Educación Especial, con especializaciones en el área de la pedagógica. Docente de aula desde hace 35 años, actualmente directora de grupo grado -1 J.M, con quienes se viene trabajando desde el año 2020 proyectos de aula cuya finalidad es mejorar procesos personales y sociales de los estudiantes que conlleven a la motivación permanente de mejorar habilidades en la lectura y escritura. Participante en el proceso de validación nacional de los Créditos de Estándares Básicos de Competencias en Lenguaje.',
     date: 'Jul 23, 2023',
     datetime: '2023-07-23',
     category: { title: 'Docentes', href: '#' },

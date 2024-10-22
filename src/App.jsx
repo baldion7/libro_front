@@ -21,6 +21,8 @@ import ScrollToTopOnRouteChange from './components/ScrollToTopOnRouteChange.jsx'
 import { Team } from './components/Team.jsx'
 import { Resultados } from './components/Resultados.jsx'
 import MetodologiaSection from './components/MetodologiaSection.jsx'
+import {CaracterisacionTransicion} from "./components/CaracterisacionTransicion.jsx";
+import {ActivityTransicion} from "./components/ActivityTransicion.jsx";
 
 
 function App () {
@@ -92,6 +94,8 @@ function App () {
           <Route path="/resultados" element={<Resultados rute={localhost}/>}/>
           <Route path="/post/:id" element={<About1 rute={localhost} actividades={PostActivityProyect}/>}/>
           <Route path="/primero/:id" element={<About1 rute={localhost} actividades={PostActivityPrimero}/>}/>
+          <Route path="/trancion/carecterizacion"  element={<CaracterisacionTransicion rute={localhost}/>}/>
+          <Route path="/trancion/actividades" element={<ActivityTransicion rute={localhost}/>}/>
           <Route path="/justificacion" element={<Justificacion rute={localhost}/>}/>
           <Route path="/primero" element={<CaracterisacionPrimero rute={localhost}/>}/>
           <Route path="/cuarto" element={<CaracterisacionCuarto rute={localhost}/>}/>

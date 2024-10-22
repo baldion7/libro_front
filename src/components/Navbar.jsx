@@ -4,6 +4,7 @@ import { ButtonsRemenber } from './ButtonsRemenber.jsx'
 import { DropdownsActivityprimero } from './DropdownsActivityprimero.jsx'
 import { Inicio } from './Inicio.jsx'
 import { Link } from 'react-router-dom'
+import {DropdownsActivityTransicion} from "./DropdownsActivityTransicion.jsx";
 
 export const Navbar = ({scrollToComponent,rute}) => {
   return (
@@ -15,7 +16,7 @@ export const Navbar = ({scrollToComponent,rute}) => {
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white font-Edu">OLE, VENGA LE CUENTO</span>
           </a>
 
-          <img src="https://colgalangiron.edu.co/wp-content/uploads/2016/10/escudo.png" className="h-12 mr-3" alt="Flowbite Logo"/>
+          <img src="https://colgalangiron.edu.co/wp-content/uploads/2024/06/escudo_colegio_-luis_carlos_galan.jpg" className="h-12 mr-3" alt="Flowbite Logo"/>
           <div id="mega-menu-full"
                className="items-center justify-between font-medium  w-full md:flex md:w-auto md:order-1">
             <ul
@@ -28,6 +29,9 @@ export const Navbar = ({scrollToComponent,rute}) => {
               </li>
               <li>
                 <DropdownsActivityprimero/>
+              </li>
+              <li>
+                <DropdownsActivityTransicion/>
               </li>
               <li>
                 <ButtonsRemenber/>
