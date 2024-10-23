@@ -34,7 +34,7 @@ export const CaracterisacionPrimero = ({ rute }) => {
                 <br/>
                 El nivel educativo de los padres juega un papel fundamental en el apoyo a los procesos escolares de sus hijos. En este aspecto se encontró que en un promedio del 60% padres y madres tienen cursada la educación media
               </p>
-              <img src={"src/img/WhatsApp Image 2023-09-17 at 7.01.51 PM.jpeg"}/>
+
             </div>
           </div>
         </div>

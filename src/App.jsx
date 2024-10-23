@@ -87,23 +87,25 @@ function App () {
         </div>
         <ModalEstudent open={open} setopen={setopen} id={estudiante} text={text} localhost={localhost}/>
           <ScrollToTopOnRouteChange>
-        <div id="seccion-destino">
-        <Routes>
-          <Route index  element={<Justificacion rute={localhost}/>}/>
-          <Route path="/" lement={<Justificacion rute={localhost}/>}/>
-          <Route path="/resultados" element={<Resultados rute={localhost}/>}/>
-          <Route path="/post/:id" element={<About1 rute={localhost} actividades={PostActivityProyect}/>}/>
-          <Route path="/primero/:id" element={<About1 rute={localhost} actividades={PostActivityPrimero}/>}/>
-          <Route path="/trancion/carecterizacion"  element={<CaracterisacionTransicion rute={localhost}/>}/>
-          <Route path="/trancion/actividades" element={<ActivityTransicion rute={localhost}/>}/>
-          <Route path="/justificacion" element={<Justificacion rute={localhost}/>}/>
-          <Route path="/primero" element={<CaracterisacionPrimero rute={localhost}/>}/>
-          <Route path="/cuarto" element={<CaracterisacionCuarto rute={localhost}/>}/>
-          <Route path="/quiver" element={<Quiver/>}/>
-          <Route path="/metodologia" element={<MetodologiaSection />}/>
-          <Route path='*' element={<Navigate to='/' replace />} />
-        </Routes>
-        </div>
+            <div id="seccion-destino">
+              <Routes>
+                <Route index element={<Justificacion rute={localhost}/>}/>
+                <Route path="/" lement={<Justificacion rute={localhost}/>}/>
+                <Route path="/resultados" element={<Resultados rute={localhost}/>}/>
+                <Route path="/post/:id" element={<About1 rute={localhost} actividades={PostActivityProyect}/>}/>
+                <Route path="/primero/:id" element={<About1 rute={localhost} actividades={PostActivityPrimero}/>}/>
+                <Route path="/trancion/carecterizacion" element={<CaracterisacionTransicion rute={localhost}/>}/>
+                <Route path="/trancion/actividades" element={<ActivityTransicion rute={localhost}/>}/>
+                <Route path="/justificacion" element={<Justificacion rute={localhost}/>}/>
+                <Route path="/primero" element={<CaracterisacionPrimero rute={localhost}/>}/>
+                <Route path="/cuarto" element={<CaracterisacionCuarto rute={localhost}/>}/>
+                <Route path="/quiver" element={<Quiver/>}/>
+                <Route path="/metodologia" element={<MetodologiaSection/>}/>
+                <Route path='*' element={<Navigate to='/' replace/>}/>
+
+              </Routes>
+
+            </div>
           </ScrollToTopOnRouteChange>
         <Present/>
         <Team  rute={localhost}/>

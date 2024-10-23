@@ -42,6 +42,14 @@ export const Navbar = ({scrollToComponent,rute}) => {
               <li>
                   <button onClick={scrollToComponent} style={{backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDgxecKfrTTRFizEwsOrsrj51Vpg9lZ8j8hQ&usqp=CAU)`,fontWeight: 'bold', backgroundSize: 'cover',backgroundPosition: 'center', backgroundRepeat: 'no-repeat',fontSize: '17px', borderRadius: '10px',padding: '7px' }}> COMENTARIOS</button>
               </li>
+              <lil>
+                <Link to={'https://www.maestraenaccion.website/'}>
+                  <video autoPlay loop muted playsInline className={"h-24"}>
+                    <source src="/videos/Video de WhatsApp 2024-10-22 a las 18.19.09_e6a6a4d4.mp4" type="video/mp4"/>
+                    Tu navegador no soporta la etiqueta de video.
+                  </video>
+                </Link>
+              </lil>
             </ul>
           </div>
         </div>
